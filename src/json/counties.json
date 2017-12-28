@@ -2,237 +2,337 @@
   {
     "code": "01",
     "name": "MOMBASA",
-    "center": { "lat": -4.018804, "lon": 39.650008 }
+    "center": { "lat": -4.018804, "lon": 39.650008 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/01.json"
   },
   {
     "code": "02",
     "name": "KWALE",
-    "center": { "lat": -4.18069, "lon": 39.189782 }
+    "center": { "lat": -4.18069, "lon": 39.189782 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/02.json"
   },
   {
     "code": "03",
     "name": "KILIFI",
-    "center": { "lat": -3.172886, "lon": 39.686064 }
+    "center": { "lat": -3.172886, "lon": 39.686064 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/03.json"
   },
   {
     "code": "04",
     "name": "TANA RIVER",
-    "center": { "lat": -1.52392, "lon": 39.417254 }
+    "center": { "lat": -1.52392, "lon": 39.417254 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/04.json"
   },
   {
     "code": "05",
     "name": "LAMU",
-    "center": { "lat": -2.076227, "lon": 40.882258 }
+    "center": { "lat": -2.076227, "lon": 40.882258 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/05.json"
   },
   {
     "code": "06",
     "name": "TAITA TAVETA",
-    "center": { "lat": -3.432282, "lon": 38.417981 }
+    "center": { "lat": -3.432282, "lon": 38.417981 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/06.json"
   },
   {
     "code": "07",
     "name": "GARISSA",
-    "center": { "lat": -0.486457, "lon": 40.198663 }
+    "center": { "lat": -0.486457, "lon": 40.198663 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/07.json"
   },
   {
     "code": "08",
     "name": "WAJIR",
-    "center": { "lat": 1.810593, "lon": 40.034371 }
+    "center": { "lat": 1.810593, "lon": 40.034371 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/08.json"
   },
   {
     "code": "09",
     "name": "MANDERA",
-    "center": { "lat": 3.438921, "lon": 40.738195 }
+    "center": { "lat": 3.438921, "lon": 40.738195 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/09.json"
   },
   {
     "code": "10",
     "name": "MARSABIT",
-    "center": { "lat": 2.981109, "lon": 37.568928 }
+    "center": { "lat": 2.981109, "lon": 37.568928 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/10.json"
   },
   {
     "code": "11",
     "name": "ISIOLO",
-    "center": { "lat": 1.012898, "lon": 38.541539 }
+    "center": { "lat": 1.012898, "lon": 38.541539 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/11.json"
   },
   {
     "code": "12",
     "name": "MERU",
-    "center": { "lat": 0.169236, "lon": 37.763423 }
+    "center": { "lat": 0.169236, "lon": 37.763423 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/12.json"
   },
   {
     "code": "13",
     "name": "THARAKA - NITHI",
-    "center": { "lat": -0.204605, "lon": 37.869684 }
+    "center": { "lat": -0.204605, "lon": 37.869684 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/13.json"
   },
   {
     "code": "14",
     "name": "EMBU",
-    "center": { "lat": -0.601522, "lon": 37.625887 }
+    "center": { "lat": -0.601522, "lon": 37.625887 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/14.json"
   },
   {
     "code": "15",
     "name": "KITUI",
-    "center": { "lat": -1.488585, "lon": 38.406306 }
+    "center": { "lat": -1.488585, "lon": 38.406306 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/15.json"
   },
   {
     "code": "16",
     "name": "MACHAKOS",
-    "center": { "lat": -1.277062, "lon": 37.412018 }
+    "center": { "lat": -1.277062, "lon": 37.412018 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/16.json"
   },
   {
     "code": "17",
     "name": "MAKUENI",
-    "center": { "lat": -2.155226, "lon": 37.787627 }
+    "center": { "lat": -2.155226, "lon": 37.787627 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/17.json"
   },
   {
     "code": "18",
     "name": "NYANDARUA",
-    "center": { "lat": -0.319613, "lon": 36.482261 }
+    "center": { "lat": -0.319613, "lon": 36.482261 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/18.json"
   },
   {
     "code": "19",
     "name": "NYERI",
-    "center": { "lat": -0.34047, "lon": 36.955864 }
+    "center": { "lat": -0.34047, "lon": 36.955864 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/19.json"
   },
   {
     "code": "20",
     "name": "KIRINYAGA",
-    "center": { "lat": -0.522295, "lon": 37.319254 }
+    "center": { "lat": -0.522295, "lon": 37.319254 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/20.json"
   },
   {
     "code": "21",
     "name": "MURANG'A",
-    "center": { "lat": -0.807137, "lon": 37.032107 }
+    "center": { "lat": -0.807137, "lon": 37.032107 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/21.json"
   },
   {
     "code": "22",
     "name": "KIAMBU",
-    "center": { "lat": -1.066267, "lon": 36.822947 }
+    "center": { "lat": -1.066267, "lon": 36.822947 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/22.json"
   },
   {
     "code": "23",
     "name": "TURKANA",
-    "center": { "lat": 3.427307, "lon": 35.435139 }
+    "center": { "lat": 3.427307, "lon": 35.435139 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/23.json"
   },
   {
     "code": "24",
     "name": "WEST POKOT",
-    "center": { "lat": 1.742564, "lon": 35.24323 }
+    "center": { "lat": 1.742564, "lon": 35.24323 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/24.json"
   },
   {
     "code": "25",
     "name": "SAMBURU",
-    "center": { "lat": 1.319312, "lon": 37.117774 }
+    "center": { "lat": 1.319312, "lon": 37.117774 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/25.json"
   },
   {
     "code": "26",
     "name": "TRANS NZOIA",
-    "center": { "lat": 1.053408, "lon": 34.956803 }
+    "center": { "lat": 1.053408, "lon": 34.956803 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/26.json"
   },
   {
     "code": "27",
     "name": "UASIN GISHU",
-    "center": { "lat": 0.528546, "lon": 35.321396 }
+    "center": { "lat": 0.528546, "lon": 35.321396 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/27.json"
   },
   {
     "code": "28",
     "name": "ELGEYO/MARAKWET",
-    "center": { "lat": 0.804673, "lon": 35.535949 }
+    "center": { "lat": 0.804673, "lon": 35.535949 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/28.json"
   },
   {
     "code": "29",
     "name": "NANDI",
-    "center": { "lat": 0.189143, "lon": 35.109878 }
+    "center": { "lat": 0.189143, "lon": 35.109878 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/29.json"
   },
   {
     "code": "30",
     "name": "BARINGO",
-    "center": { "lat": 0.6717, "lon": 35.945852 }
+    "center": { "lat": 0.6717, "lon": 35.945852 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/30.json"
   },
   {
     "code": "31",
     "name": "LAIKIPIA",
-    "center": { "lat": 0.326057, "lon": 36.771121 }
+    "center": { "lat": 0.326057, "lon": 36.771121 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/31.json"
   },
   {
     "code": "32",
     "name": "NAKURU",
-    "center": { "lat": -0.461222, "lon": 36.077847 }
+    "center": { "lat": -0.461222, "lon": 36.077847 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/32.json"
   },
   {
     "code": "33",
     "name": "NAROK",
-    "center": { "lat": -1.252328, "lon": 35.575712 }
+    "center": { "lat": -1.252328, "lon": 35.575712 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/33.json"
   },
   {
     "code": "34",
     "name": "KAJIADO",
-    "center": { "lat": -2.118928, "lon": 36.908224 }
+    "center": { "lat": -2.118928, "lon": 36.908224 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/34.json"
   },
   {
     "code": "35",
     "name": "KERICHO",
-    "center": { "lat": -0.293278, "lon": 35.313456 }
+    "center": { "lat": -0.293278, "lon": 35.313456 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/35.json"
   },
   {
     "code": "36",
     "name": "BOMET",
-    "center": { "lat": -0.723839, "lon": 35.297988 }
+    "center": { "lat": -0.723839, "lon": 35.297988 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/36.json"
   },
   {
     "code": "37",
     "name": "KAKAMEGA",
-    "center": { "lat": 0.406141, "lon": 34.7439 }
+    "center": { "lat": 0.406141, "lon": 34.7439 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/37.json"
   },
   {
     "code": "38",
     "name": "VIHIGA",
-    "center": { "lat": 0.078717, "lon": 34.721702 }
+    "center": { "lat": 0.078717, "lon": 34.721702 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/38.json"
   },
   {
     "code": "39",
     "name": "BUNGOMA",
-    "center": { "lat": 0.75174, "lon": 34.639847 }
+    "center": { "lat": 0.75174, "lon": 34.639847 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/39.json"
   },
   {
     "code": "40",
     "name": "BUSIA",
-    "center": { "lat": 0.389894, "lon": 34.193014 }
+    "center": { "lat": 0.389894, "lon": 34.193014 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/40.json"
   },
   {
     "code": "41",
     "name": "SIAYA",
-    "center": { "lat": -0.059673, "lon": 34.247028 }
+    "center": { "lat": -0.059673, "lon": 34.247028 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/41.json"
   },
   {
     "code": "42",
     "name": "KISUMU",
-    "center": { "lat": -0.167005, "lon": 34.834589 }
+    "center": { "lat": -0.167005, "lon": 34.834589 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/42.json"
   },
   {
     "code": "43",
     "name": "HOMA BAY",
-    "center": { "lat": -0.540355, "lon": 34.358386 }
+    "center": { "lat": -0.540355, "lon": 34.358386 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/43.json"
   },
   {
     "code": "44",
     "name": "MIGORI",
-    "center": { "lat": -0.987079, "lon": 34.362727 }
+    "center": { "lat": -0.987079, "lon": 34.362727 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/44.json"
   },
   {
     "code": "45",
     "name": "KISII",
-    "center": { "lat": -0.772149, "lon": 34.774106 }
+    "center": { "lat": -0.772149, "lon": 34.774106 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/45.json"
   },
   {
     "code": "46",
     "name": "NYAMIRA",
-    "center": { "lat": -0.64027, "lon": 34.964044 }
+    "center": { "lat": -0.64027, "lon": 34.964044 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/46.json"
   },
   {
     "code": "47",
     "name": "NAIROBI CITY",
-    "center": { "lat": -1.290909, "lon": 36.867507 }
+    "center": { "lat": -1.290909, "lon": 36.867507 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/47.json"
   },
-  { "code": "48", "name": "DIASPORA", "center": { "lat": 0, "lon": 0 } }
+  {
+    "code": "48",
+    "name": "DIASPORA",
+    "center": { "lat": 0, "lon": 0 },
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/48.json"
+  }
 ]
