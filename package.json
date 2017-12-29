@@ -3,11 +3,14 @@
   "version": "0.0.0-development",
   "description":
     "A package with various components describing kenyan geography",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "files": ["dist", "README.md"],
   "scripts": {
     "commit": "git-cz",
-    "test": "mocha src/index.test.js -w",
-    "test:single": "mocha src/index.test.js",
+    "test": "mocha src/index.test.js -w --compilers js:babel-register",
+    "test:single": "mocha src/index.test.js --compilers js:babel-register",
+    "prebuild": "rimraf dist",
+    "build": "babel --copy-files --out-dir dist --ignore *.test.js src",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -26,9 +29,15 @@
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "babel-register": "6.26.0",
     "chai": "4.1.2",
     "ghooks": "2.0.2",
     "mocha": "4.0.1",
+    "rimraf": "2.6.2",
     "semantic-release": "^11.0.2"
   },
   "config": {
@@ -38,5 +47,8 @@
     "ghooks": {
       "pre-commit": "npm run test:single"
     }
+  },
+  "babel": {
+    "presets": ["env", "stage-2"]
   }
 }

@@ -1,6 +1,6 @@
-var counties = require('./json/counties.json');
-var constituencies = require('./json/constituencies.json');
-var uniqueRandomArray = require('unique-random-array');
+import counties from './json/counties.json';
+import constituencies from './json/constituencies.json';
+import uniqueRandomArray from 'unique-random-array';
 
 module.exports = {
   counties: counties,

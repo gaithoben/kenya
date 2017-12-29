@@ -1,6 +1,6 @@
-var expect = require('chai').expect;
+import { expect } from 'chai';
 
-var kenya = require('./index');
+import kenya from './index';
 
 describe('Counties List', function() {
   describe('counties', function() {
