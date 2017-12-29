@@ -1,10 +1,12 @@
 {
   "name": "kenya",
   "version": "0.0.0-development",
-  "description":
-    "A package with various components describing kenyan geography",
+  "description": "A package with various components describing kenyan geography",
   "main": "dist/index.js",
-  "files": ["dist", "README.md"],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "commit": "git-cz",
     "test": "mocha src/index.test.js -w --compilers js:babel-register",
@@ -17,9 +19,13 @@
     "type": "git",
     "url": "https://github.com/gaithoben/kenya.git"
   },
-  "keywords": ["kenya", "counties", "constituencies", "wards"],
-  "author":
-    "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
+  "keywords": [
+    "kenya",
+    "counties",
+    "constituencies",
+    "wards"
+  ],
+  "author": "Bernard Gaitho <gaithoben@gmail.com> (http://github.com/gaithoben)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gaithoben/kenya/issues"
@@ -49,6 +55,9 @@
     }
   },
   "babel": {
-    "presets": ["env", "stage-2"]
+    "presets": [
+      "env",
+      "stage-2"
+    ]
   }
 }
