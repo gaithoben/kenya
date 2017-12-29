@@ -1,0 +1,3354 @@
+[
+  {
+    "code": "001",
+    "name": "CHANGAMWE",
+    "center": { "lat": -4.026797, "lon": 39.614571 },
+    "no_of_polling_stations": "136",
+    "no_of_polling_centers": "136",
+    "registered_voters": 86331,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/001.json"
+  },
+  {
+    "code": "002",
+    "name": "JOMVU",
+    "center": { "lat": -3.996042, "lon": 39.604102 },
+    "no_of_polling_stations": "109",
+    "no_of_polling_centers": "109",
+    "registered_voters": 69307,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/002.json"
+  },
+  {
+    "code": "003",
+    "name": "KISAUNI",
+    "center": { "lat": -3.971323, "lon": 39.68524 },
+    "no_of_polling_stations": "198",
+    "no_of_polling_centers": "198",
+    "registered_voters": 126151,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/003.json"
+  },
+  {
+    "code": "004",
+    "name": "NYALI",
+    "center": { "lat": -4.030199, "lon": 39.703432 },
+    "no_of_polling_stations": "165",
+    "no_of_polling_centers": "165",
+    "registered_voters": 104017,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/004.json"
+  },
+  {
+    "code": "005",
+    "name": "LIKONI",
+    "center": { "lat": -4.094062, "lon": 39.633005 },
+    "no_of_polling_stations": "140",
+    "no_of_polling_centers": "140",
+    "registered_voters": 87326,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/005.json"
+  },
+  {
+    "code": "006",
+    "name": "MVITA",
+    "center": { "lat": -4.051462, "lon": 39.661376 },
+    "no_of_polling_stations": "186",
+    "no_of_polling_centers": "186",
+    "registered_voters": 107091,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/006.json"
+  },
+  {
+    "code": "007",
+    "name": "MSAMBWENI",
+    "center": { "lat": -4.435073, "lon": 39.512627 },
+    "no_of_polling_stations": "129",
+    "no_of_polling_centers": "129",
+    "registered_voters": 68621,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/007.json"
+  },
+  {
+    "code": "008",
+    "name": "LUNGALUNGA",
+    "center": { "lat": -4.46147, "lon": 39.109774 },
+    "no_of_polling_stations": "118",
+    "no_of_polling_centers": "118",
+    "registered_voters": 56948,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/008.json"
+  },
+  {
+    "code": "009",
+    "name": "MATUGA",
+    "center": { "lat": -4.244685, "lon": 39.433834 },
+    "no_of_polling_stations": "153",
+    "no_of_polling_centers": "153",
+    "registered_voters": 70366,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/009.json"
+  },
+  {
+    "code": "01",
+    "name": "MOMBASA",
+    "no_of_polling_stations": "934",
+    "no_of_polling_centers": "934",
+    "registered_voters": 580223,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/01.json"
+  },
+  {
+    "code": "010",
+    "name": "KINANGO",
+    "center": { "lat": -3.979582, "lon": 39.104945 },
+    "no_of_polling_stations": "212",
+    "no_of_polling_centers": "212",
+    "registered_voters": 85106,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/010.json"
+  },
+  {
+    "code": "011",
+    "name": "KILIFI NORTH",
+    "center": { "lat": -3.461278, "lon": 39.888612 },
+    "no_of_polling_stations": "182",
+    "no_of_polling_centers": "182",
+    "registered_voters": 101978,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/011.json"
+  },
+  {
+    "code": "012",
+    "name": "KILIFI SOUTH",
+    "center": { "lat": -3.802273, "lon": 39.745179 },
+    "no_of_polling_stations": "147",
+    "no_of_polling_centers": "147",
+    "registered_voters": 84865,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/012.json"
+  },
+  {
+    "code": "013",
+    "name": "KALOLENI",
+    "center": { "lat": -3.760289, "lon": 39.525891 },
+    "no_of_polling_stations": "123",
+    "no_of_polling_centers": "123",
+    "registered_voters": 60470,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/013.json"
+  },
+  {
+    "code": "014",
+    "name": "RABAI",
+    "center": { "lat": -3.903915, "lon": 39.606989 },
+    "no_of_polling_stations": "93",
+    "no_of_polling_centers": "93",
+    "registered_voters": 50332,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/014.json"
+  },
+  {
+    "code": "015",
+    "name": "GANZE",
+    "center": { "lat": -3.452556, "lon": 39.510173 },
+    "no_of_polling_stations": "132",
+    "no_of_polling_centers": "132",
+    "registered_voters": 54760,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/015.json"
+  },
+  {
+    "code": "016",
+    "name": "MALINDI",
+    "center": { "lat": -3.211497, "lon": 39.913623 },
+    "no_of_polling_stations": "154",
+    "no_of_polling_centers": "154",
+    "registered_voters": 87210,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/016.json"
+  },
+  {
+    "code": "017",
+    "name": "MAGARINI",
+    "center": { "lat": -2.899511, "lon": 39.733068 },
+    "no_of_polling_stations": "157",
+    "no_of_polling_centers": "157",
+    "registered_voters": 68453,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/017.json"
+  },
+  {
+    "code": "018",
+    "name": "GARSEN",
+    "center": { "lat": -2.33553, "lon": 39.510143 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 46819,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/018.json"
+  },
+  {
+    "code": "019",
+    "name": "GALOLE",
+    "center": { "lat": -1.492638, "lon": 39.502345 },
+    "no_of_polling_stations": "93",
+    "no_of_polling_centers": "93",
+    "registered_voters": 33356,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/019.json"
+  },
+  {
+    "code": "02",
+    "name": "KWALE",
+    "no_of_polling_stations": "612",
+    "no_of_polling_centers": "612",
+    "registered_voters": 281041,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/02.json"
+  },
+  {
+    "code": "020",
+    "name": "BURA",
+    "center": { "lat": -0.597591, "lon": 39.247662 },
+    "no_of_polling_stations": "101",
+    "no_of_polling_centers": "101",
+    "registered_voters": 38152,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/020.json"
+  },
+  {
+    "code": "021",
+    "name": "LAMU EAST",
+    "center": { "lat": -1.932898, "lon": 41.165318 },
+    "no_of_polling_stations": "45",
+    "no_of_polling_centers": "45",
+    "registered_voters": 18234,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/021.json"
+  },
+  {
+    "code": "022",
+    "name": "LAMU WEST",
+    "center": { "lat": -2.200167, "lon": 40.637439 },
+    "no_of_polling_stations": "122",
+    "no_of_polling_centers": "122",
+    "registered_voters": 51542,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/022.json"
+  },
+  {
+    "code": "023",
+    "name": "TAVETA",
+    "center": { "lat": -3.424988, "lon": 37.958992 },
+    "no_of_polling_stations": "79",
+    "no_of_polling_centers": "79",
+    "registered_voters": 34302,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/023.json"
+  },
+  {
+    "code": "024",
+    "name": "WUNDANYI",
+    "center": { "lat": -3.284727, "lon": 38.282546 },
+    "no_of_polling_stations": "69",
+    "no_of_polling_centers": "69",
+    "registered_voters": 29911,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/024.json"
+  },
+  {
+    "code": "025",
+    "name": "MWATATE",
+    "center": { "lat": -3.719163, "lon": 38.338262 },
+    "no_of_polling_stations": "96",
+    "no_of_polling_centers": "96",
+    "registered_voters": 39031,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/025.json"
+  },
+  {
+    "code": "026",
+    "name": "VOI",
+    "center": { "lat": -3.363431, "lon": 38.64822 },
+    "no_of_polling_stations": "110",
+    "no_of_polling_centers": "110",
+    "registered_voters": 52472,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/026.json"
+  },
+  {
+    "code": "027",
+    "name": "GARISSA TOWNSHIP",
+    "center": { "lat": -0.246034, "lon": 39.590128 },
+    "no_of_polling_stations": "97",
+    "no_of_polling_centers": "97",
+    "registered_voters": 54291,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/027.json"
+  },
+  {
+    "code": "028",
+    "name": "BALAMBALA",
+    "center": { "lat": 0.066578, "lon": 39.200724 },
+    "no_of_polling_stations": "53",
+    "no_of_polling_centers": "53",
+    "registered_voters": 20145,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/028.json"
+  },
+  {
+    "code": "029",
+    "name": "LAGDERA",
+    "center": { "lat": 0.493203, "lon": 39.347251 },
+    "no_of_polling_stations": "46",
+    "no_of_polling_centers": "46",
+    "registered_voters": 20547,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/029.json"
+  },
+  {
+    "code": "03",
+    "name": "KILIFI",
+    "no_of_polling_stations": "988",
+    "no_of_polling_centers": "988",
+    "registered_voters": 508068,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/03.json"
+  },
+  {
+    "code": "030",
+    "name": "DADAAB",
+    "center": { "lat": 0.065733, "lon": 40.372216 },
+    "no_of_polling_stations": "56",
+    "no_of_polling_centers": "56",
+    "registered_voters": 25762,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/030.json"
+  },
+  {
+    "code": "031",
+    "name": "FAFI",
+    "center": { "lat": -0.745956, "lon": 40.407881 },
+    "no_of_polling_stations": "61",
+    "no_of_polling_centers": "61",
+    "registered_voters": 19883,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/031.json"
+  },
+  {
+    "code": "032",
+    "name": "IJARA",
+    "center": { "lat": -1.519562, "lon": 40.822011 },
+    "no_of_polling_stations": "68",
+    "no_of_polling_centers": "68",
+    "registered_voters": 22722,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/032.json"
+  },
+  {
+    "code": "033",
+    "name": "WAJIR NORTH",
+    "center": { "lat": 2.970742, "lon": 39.646124 },
+    "no_of_polling_stations": "76",
+    "no_of_polling_centers": "76",
+    "registered_voters": 24550,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/033.json"
+  },
+  {
+    "code": "034",
+    "name": "WAJIR EAST",
+    "center": { "lat": 1.946942, "lon": 40.641246 },
+    "no_of_polling_stations": "65",
+    "no_of_polling_centers": "65",
+    "registered_voters": 26964,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/034.json"
+  },
+  {
+    "code": "035",
+    "name": "TARBAJ",
+    "center": { "lat": 2.35605, "lon": 40.232509 },
+    "no_of_polling_stations": "50",
+    "no_of_polling_centers": "50",
+    "registered_voters": 19699,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/035.json"
+  },
+  {
+    "code": "036",
+    "name": "WAJIR WEST",
+    "center": { "lat": 1.659871, "lon": 39.530075 },
+    "no_of_polling_stations": "75",
+    "no_of_polling_centers": "75",
+    "registered_voters": 27544,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/036.json"
+  },
+  {
+    "code": "037",
+    "name": "ELDAS",
+    "center": { "lat": 2.280838, "lon": 39.456215 },
+    "no_of_polling_stations": "49",
+    "no_of_polling_centers": "49",
+    "registered_voters": 18676,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/037.json"
+  },
+  {
+    "code": "038",
+    "name": "WAJIR SOUTH",
+    "center": { "lat": 0.988037, "lon": 40.35788 },
+    "no_of_polling_stations": "119",
+    "no_of_polling_centers": "119",
+    "registered_voters": 45469,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/038.json"
+  },
+  {
+    "code": "039",
+    "name": "MANDERA WEST",
+    "center": { "lat": 3.427223, "lon": 40.147269 },
+    "no_of_polling_stations": "58",
+    "no_of_polling_centers": "58",
+    "registered_voters": 26816,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/039.json"
+  },
+  {
+    "code": "04",
+    "name": "TANA RIVER",
+    "no_of_polling_stations": "307",
+    "no_of_polling_centers": "307",
+    "registered_voters": 118327,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/04.json"
+  },
+  {
+    "code": "040",
+    "name": "BANISSA",
+    "center": { "lat": 3.996367, "lon": 40.507561 },
+    "no_of_polling_stations": "53",
+    "no_of_polling_centers": "53",
+    "registered_voters": 18476,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/040.json"
+  },
+  {
+    "code": "041",
+    "name": "MANDERA NORTH",
+    "center": { "lat": 3.649411, "lon": 40.741742 },
+    "no_of_polling_stations": "99",
+    "no_of_polling_centers": "99",
+    "registered_voters": 51231,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/041.json"
+  },
+  {
+    "code": "042",
+    "name": "MANDERA SOUTH",
+    "center": { "lat": 2.80022, "lon": 40.775923 },
+    "no_of_polling_stations": "71",
+    "no_of_polling_centers": "71",
+    "registered_voters": 25833,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/042.json"
+  },
+  {
+    "code": "043",
+    "name": "MANDERA EAST",
+    "center": { "lat": 3.703792, "lon": 41.609367 },
+    "no_of_polling_stations": "84",
+    "no_of_polling_centers": "84",
+    "registered_voters": 38965,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/043.json"
+  },
+  {
+    "code": "044",
+    "name": "LAFEY",
+    "center": { "lat": 3.505552, "lon": 41.247341 },
+    "no_of_polling_stations": "36",
+    "no_of_polling_centers": "36",
+    "registered_voters": 14321,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/044.json"
+  },
+  {
+    "code": "045",
+    "name": "MOYALE",
+    "center": { "lat": 3.141445, "lon": 38.823207 },
+    "no_of_polling_stations": "136",
+    "no_of_polling_centers": "136",
+    "registered_voters": 55664,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/045.json"
+  },
+  {
+    "code": "046",
+    "name": "NORTH HORR",
+    "center": { "lat": 3.380498, "lon": 37.384694 },
+    "no_of_polling_stations": "101",
+    "no_of_polling_centers": "101",
+    "registered_voters": 30858,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/046.json"
+  },
+  {
+    "code": "047",
+    "name": "SAKU",
+    "center": { "lat": 2.336309, "lon": 37.94773 },
+    "no_of_polling_stations": "68",
+    "no_of_polling_centers": "68",
+    "registered_voters": 27082,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/047.json"
+  },
+  {
+    "code": "048",
+    "name": "LAISAMIS",
+    "center": { "lat": 2.300183, "lon": 37.360602 },
+    "no_of_polling_stations": "79",
+    "no_of_polling_centers": "79",
+    "registered_voters": 28104,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/048.json"
+  },
+  {
+    "code": "049",
+    "name": "ISIOLO NORTH",
+    "center": { "lat": 1.263153, "lon": 38.467186 },
+    "no_of_polling_stations": "140",
+    "no_of_polling_centers": "140",
+    "registered_voters": 56253,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/049.json"
+  },
+  {
+    "code": "05",
+    "name": "LAMU",
+    "no_of_polling_stations": "167",
+    "no_of_polling_centers": "167",
+    "registered_voters": 69776,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/05.json"
+  },
+  {
+    "code": "050",
+    "name": "ISIOLO SOUTH",
+    "center": { "lat": 0.632392, "lon": 38.654595 },
+    "no_of_polling_stations": "55",
+    "no_of_polling_centers": "55",
+    "registered_voters": 19085,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/050.json"
+  },
+  {
+    "code": "051",
+    "name": "IGEMBE SOUTH",
+    "center": { "lat": 0.09489, "lon": 38.142364 },
+    "no_of_polling_stations": "144",
+    "no_of_polling_centers": "144",
+    "registered_voters": 68166,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/051.json"
+  },
+  {
+    "code": "052",
+    "name": "IGEMBE CENTRAL",
+    "center": { "lat": 0.30244, "lon": 37.996523 },
+    "no_of_polling_stations": "181",
+    "no_of_polling_centers": "181",
+    "registered_voters": 83912,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/052.json"
+  },
+  {
+    "code": "053",
+    "name": "IGEMBE NORTH",
+    "center": { "lat": 0.466679, "lon": 37.98788 },
+    "no_of_polling_stations": "151",
+    "no_of_polling_centers": "151",
+    "registered_voters": 67350,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/053.json"
+  },
+  {
+    "code": "054",
+    "name": "TIGANIA WEST",
+    "center": { "lat": 0.189477, "lon": 37.720838 },
+    "no_of_polling_stations": "131",
+    "no_of_polling_centers": "131",
+    "registered_voters": 64114,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/054.json"
+  },
+  {
+    "code": "055",
+    "name": "TIGANIA EAST",
+    "center": { "lat": 0.278907, "lon": 37.770745 },
+    "no_of_polling_stations": "163",
+    "no_of_polling_centers": "163",
+    "registered_voters": 75920,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/055.json"
+  },
+  {
+    "code": "056",
+    "name": "NORTH IMENTI",
+    "center": { "lat": 0.057105, "lon": 37.716176 },
+    "no_of_polling_stations": "177",
+    "no_of_polling_centers": "177",
+    "registered_voters": 89447,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/056.json"
+  },
+  {
+    "code": "057",
+    "name": "BUURI",
+    "center": { "lat": 0.087303, "lon": 37.397816 },
+    "no_of_polling_stations": "160",
+    "no_of_polling_centers": "160",
+    "registered_voters": 76033,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/057.json"
+  },
+  {
+    "code": "058",
+    "name": "CENTRAL IMENTI",
+    "center": { "lat": -0.040134, "lon": 37.682817 },
+    "no_of_polling_stations": "150",
+    "no_of_polling_centers": "150",
+    "registered_voters": 70124,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/058.json"
+  },
+  {
+    "code": "059",
+    "name": "SOUTH IMENTI",
+    "center": { "lat": -0.123592, "lon": 37.608018 },
+    "no_of_polling_stations": "216",
+    "no_of_polling_centers": "216",
+    "registered_voters": 107414,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/059.json"
+  },
+  {
+    "code": "06",
+    "name": "TAITA TAVETA",
+    "no_of_polling_stations": "354",
+    "no_of_polling_centers": "354",
+    "registered_voters": 155716,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/06.json"
+  },
+  {
+    "code": "060",
+    "name": "MAARA",
+    "center": { "lat": -0.23359, "lon": 37.631279 },
+    "no_of_polling_stations": "182",
+    "no_of_polling_centers": "182",
+    "registered_voters": 68729,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/060.json"
+  },
+  {
+    "code": "061",
+    "name": "CHUKA/IGAMBANG'OMBE",
+    "center": { "lat": -0.337467, "lon": 37.672188 },
+    "no_of_polling_stations": "225",
+    "no_of_polling_centers": "225",
+    "registered_voters": 76486,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/061.json"
+  },
+  {
+    "code": "062",
+    "name": "THARAKA",
+    "center": { "lat": -0.140954, "lon": 38.030977 },
+    "no_of_polling_stations": "218",
+    "no_of_polling_centers": "218",
+    "registered_voters": 67939,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/062.json"
+  },
+  {
+    "code": "063",
+    "name": "MANYATTA",
+    "center": { "lat": -0.416462, "lon": 37.459881 },
+    "no_of_polling_stations": "226",
+    "no_of_polling_centers": "226",
+    "registered_voters": 99339,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/063.json"
+  },
+  {
+    "code": "064",
+    "name": "RUNYENJES",
+    "center": { "lat": -0.402893, "lon": 37.561233 },
+    "no_of_polling_stations": "185",
+    "no_of_polling_centers": "185",
+    "registered_voters": 86977,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/064.json"
+  },
+  {
+    "code": "065",
+    "name": "MBEERE SOUTH",
+    "center": { "lat": -0.743277, "lon": 37.609371 },
+    "no_of_polling_stations": "177",
+    "no_of_polling_centers": "177",
+    "registered_voters": 72143,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/065.json"
+  },
+  {
+    "code": "066",
+    "name": "MBEERE NORTH",
+    "center": { "lat": -0.539398, "lon": 37.767574 },
+    "no_of_polling_stations": "122",
+    "no_of_polling_centers": "122",
+    "registered_voters": 51009,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/066.json"
+  },
+  {
+    "code": "067",
+    "name": "MWINGI NORTH",
+    "center": { "lat": -0.461391, "lon": 38.299293 },
+    "no_of_polling_stations": "223",
+    "no_of_polling_centers": "223",
+    "registered_voters": 61491,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/067.json"
+  },
+  {
+    "code": "068",
+    "name": "MWINGI WEST",
+    "center": { "lat": -0.980454, "lon": 37.96868 },
+    "no_of_polling_stations": "156",
+    "no_of_polling_centers": "156",
+    "registered_voters": 51849,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/068.json"
+  },
+  {
+    "code": "069",
+    "name": "MWINGI CENTRAL",
+    "center": { "lat": -0.922549, "lon": 38.451607 },
+    "no_of_polling_stations": "194",
+    "no_of_polling_centers": "194",
+    "registered_voters": 63305,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/069.json"
+  },
+  {
+    "code": "07",
+    "name": "GARISSA",
+    "no_of_polling_stations": "381",
+    "no_of_polling_centers": "381",
+    "registered_voters": 163350,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/07.json"
+  },
+  {
+    "code": "070",
+    "name": "KITUI WEST",
+    "center": { "lat": -1.23196, "lon": 37.907896 },
+    "no_of_polling_stations": "143",
+    "no_of_polling_centers": "143",
+    "registered_voters": 52042,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/070.json"
+  },
+  {
+    "code": "071",
+    "name": "KITUI RURAL",
+    "center": { "lat": -1.512518, "lon": 37.870447 },
+    "no_of_polling_stations": "147",
+    "no_of_polling_centers": "147",
+    "registered_voters": 49614,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/071.json"
+  },
+  {
+    "code": "072",
+    "name": "KITUI CENTRAL",
+    "center": { "lat": -1.372788, "lon": 38.012552 },
+    "no_of_polling_stations": "183",
+    "no_of_polling_centers": "183",
+    "registered_voters": 70736,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/072.json"
+  },
+  {
+    "code": "073",
+    "name": "KITUI EAST",
+    "center": { "lat": -1.370375, "lon": 38.506011 },
+    "no_of_polling_stations": "174",
+    "no_of_polling_centers": "174",
+    "registered_voters": 57290,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/073.json"
+  },
+  {
+    "code": "074",
+    "name": "KITUI SOUTH",
+    "center": { "lat": -2.165271, "lon": 38.540681 },
+    "no_of_polling_stations": "234",
+    "no_of_polling_centers": "234",
+    "registered_voters": 68185,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/074.json"
+  },
+  {
+    "code": "075",
+    "name": "MASINGA",
+    "center": { "lat": -0.944949, "lon": 37.606999 },
+    "no_of_polling_stations": "170",
+    "no_of_polling_centers": "170",
+    "registered_voters": 61989,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/075.json"
+  },
+  {
+    "code": "076",
+    "name": "YATTA",
+    "center": { "lat": -1.23503, "lon": 37.580471 },
+    "no_of_polling_stations": "169",
+    "no_of_polling_centers": "169",
+    "registered_voters": 73940,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/076.json"
+  },
+  {
+    "code": "077",
+    "name": "KANGUNDO",
+    "center": { "lat": -1.339133, "lon": 37.358118 },
+    "no_of_polling_stations": "120",
+    "no_of_polling_centers": "120",
+    "registered_voters": 53475,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/077.json"
+  },
+  {
+    "code": "078",
+    "name": "MATUNGULU",
+    "center": { "lat": -1.207515, "lon": 37.248432 },
+    "no_of_polling_stations": "145",
+    "no_of_polling_centers": "145",
+    "registered_voters": 66611,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/078.json"
+  },
+  {
+    "code": "079",
+    "name": "KATHIANI",
+    "center": { "lat": -1.415353, "lon": 37.298091 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 54909,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/079.json"
+  },
+  {
+    "code": "08",
+    "name": "WAJIR",
+    "no_of_polling_stations": "434",
+    "no_of_polling_centers": "434",
+    "registered_voters": 162902,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/08.json"
+  },
+  {
+    "code": "080",
+    "name": "MAVOKO",
+    "center": { "lat": -1.435794, "lon": 37.058744 },
+    "no_of_polling_stations": "189",
+    "no_of_polling_centers": "189",
+    "registered_voters": 118180,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/080.json"
+  },
+  {
+    "code": "081",
+    "name": "MACHAKOS TOWN",
+    "center": { "lat": -1.586935, "lon": 37.225445 },
+    "no_of_polling_stations": "213",
+    "no_of_polling_centers": "213",
+    "registered_voters": 109877,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/081.json"
+  },
+  {
+    "code": "082",
+    "name": "MWALA",
+    "center": { "lat": -1.418234, "lon": 37.524461 },
+    "no_of_polling_stations": "213",
+    "no_of_polling_centers": "213",
+    "registered_voters": 81273,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/082.json"
+  },
+  {
+    "code": "083",
+    "name": "MBOONI",
+    "center": { "lat": -1.65194, "lon": 37.596311 },
+    "no_of_polling_stations": "238",
+    "no_of_polling_centers": "238",
+    "registered_voters": 85876,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/083.json"
+  },
+  {
+    "code": "084",
+    "name": "KILOME",
+    "center": { "lat": -1.845378, "lon": 37.284105 },
+    "no_of_polling_stations": "108",
+    "no_of_polling_centers": "108",
+    "registered_voters": 50232,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/084.json"
+  },
+  {
+    "code": "085",
+    "name": "KAITI",
+    "center": { "lat": -1.772546, "lon": 37.438375 },
+    "no_of_polling_stations": "144",
+    "no_of_polling_centers": "144",
+    "registered_voters": 57952,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/085.json"
+  },
+  {
+    "code": "086",
+    "name": "MAKUENI",
+    "center": { "lat": -1.929547, "lon": 37.711208 },
+    "no_of_polling_stations": "225",
+    "no_of_polling_centers": "225",
+    "registered_voters": 90817,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/086.json"
+  },
+  {
+    "code": "087",
+    "name": "KIBWEZI WEST",
+    "center": { "lat": -2.253424, "lon": 37.804137 },
+    "no_of_polling_stations": "194",
+    "no_of_polling_centers": "194",
+    "registered_voters": 80805,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/087.json"
+  },
+  {
+    "code": "088",
+    "name": "KIBWEZI EAST",
+    "center": { "lat": -2.607874, "lon": 38.145065 },
+    "no_of_polling_stations": "151",
+    "no_of_polling_centers": "151",
+    "registered_voters": 57628,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/088.json"
+  },
+  {
+    "code": "089",
+    "name": "KINANGOP",
+    "center": { "lat": -0.644002, "lon": 36.59227 },
+    "no_of_polling_stations": "206",
+    "no_of_polling_centers": "206",
+    "registered_voters": 109241,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/089.json"
+  },
+  {
+    "code": "09",
+    "name": "MANDERA",
+    "no_of_polling_stations": "401",
+    "no_of_polling_centers": "401",
+    "registered_voters": 175642,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/09.json"
+  },
+  {
+    "code": "090",
+    "name": "KIPIPIRI",
+    "center": { "lat": -0.381661, "lon": 36.506798 },
+    "no_of_polling_stations": "107",
+    "no_of_polling_centers": "107",
+    "registered_voters": 50416,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/090.json"
+  },
+  {
+    "code": "091",
+    "name": "OL KALOU",
+    "center": { "lat": -0.276695, "lon": 36.334159 },
+    "no_of_polling_stations": "126",
+    "no_of_polling_centers": "126",
+    "registered_voters": 68376,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/091.json"
+  },
+  {
+    "code": "092",
+    "name": "OL JOROK",
+    "center": { "lat": -0.090737, "lon": 36.333187 },
+    "no_of_polling_stations": "102",
+    "no_of_polling_centers": "102",
+    "registered_voters": 54770,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/092.json"
+  },
+  {
+    "code": "093",
+    "name": "NDARAGWA",
+    "center": { "lat": -0.089288, "lon": 36.529088 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 52831,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/093.json"
+  },
+  {
+    "code": "094",
+    "name": "TETU",
+    "center": { "lat": -0.457566, "lon": 36.830012 },
+    "no_of_polling_stations": "108",
+    "no_of_polling_centers": "108",
+    "registered_voters": 51716,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/094.json"
+  },
+  {
+    "code": "095",
+    "name": "KIENI",
+    "center": { "lat": -0.234491, "lon": 36.94278 },
+    "no_of_polling_stations": "227",
+    "no_of_polling_centers": "227",
+    "registered_voters": 109001,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/095.json"
+  },
+  {
+    "code": "096",
+    "name": "MATHIRA",
+    "center": { "lat": -0.390103, "lon": 37.147981 },
+    "no_of_polling_stations": "190",
+    "no_of_polling_centers": "190",
+    "registered_voters": 99496,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/096.json"
+  },
+  {
+    "code": "097",
+    "name": "OTHAYA",
+    "center": { "lat": -0.543337, "lon": 36.832511 },
+    "no_of_polling_stations": "129",
+    "no_of_polling_centers": "129",
+    "registered_voters": 58566,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/097.json"
+  },
+  {
+    "code": "098",
+    "name": "MUKURWEINI",
+    "center": { "lat": -0.575801, "lon": 37.083069 },
+    "no_of_polling_stations": "111",
+    "no_of_polling_centers": "111",
+    "registered_voters": 55310,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/098.json"
+  },
+  {
+    "code": "099",
+    "name": "NYERI TOWN",
+    "center": { "lat": -0.418848, "lon": 36.966874 },
+    "no_of_polling_stations": "152",
+    "no_of_polling_centers": "152",
+    "registered_voters": 82860,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/099.json"
+  },
+  {
+    "code": "10",
+    "name": "MARSABIT",
+    "no_of_polling_stations": "384",
+    "no_of_polling_centers": "384",
+    "registered_voters": 141708,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/10.json"
+  },
+  {
+    "code": "100",
+    "name": "MWEA",
+    "center": { "lat": -0.656531, "lon": 37.366302 },
+    "no_of_polling_stations": "222",
+    "no_of_polling_centers": "222",
+    "registered_voters": 122380,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/100.json"
+  },
+  {
+    "code": "101",
+    "name": "GICHUGU",
+    "center": { "lat": -0.398251, "lon": 37.347911 },
+    "no_of_polling_stations": "168",
+    "no_of_polling_centers": "168",
+    "registered_voters": 85352,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/101.json"
+  },
+  {
+    "code": "102",
+    "name": "NDIA",
+    "center": { "lat": -0.544368, "lon": 37.206223 },
+    "no_of_polling_stations": "129",
+    "no_of_polling_centers": "129",
+    "registered_voters": 66083,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/102.json"
+  },
+  {
+    "code": "103",
+    "name": "KIRINYAGA CENTRAL",
+    "center": { "lat": -0.437115, "lon": 37.267994 },
+    "no_of_polling_stations": "140",
+    "no_of_polling_centers": "140",
+    "registered_voters": 76021,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/103.json"
+  },
+  {
+    "code": "104",
+    "name": "KANGEMA",
+    "center": { "lat": -0.671766, "lon": 36.865348 },
+    "no_of_polling_stations": "91",
+    "no_of_polling_centers": "91",
+    "registered_voters": 48730,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/104.json"
+  },
+  {
+    "code": "105",
+    "name": "MATHIOYA",
+    "center": { "lat": -0.617435, "lon": 36.909854 },
+    "no_of_polling_stations": "110",
+    "no_of_polling_centers": "110",
+    "registered_voters": 54940,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/105.json"
+  },
+  {
+    "code": "106",
+    "name": "KIHARU",
+    "center": { "lat": -0.714644, "lon": 37.088281 },
+    "no_of_polling_stations": "212",
+    "no_of_polling_centers": "212",
+    "registered_voters": 114260,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/106.json"
+  },
+  {
+    "code": "107",
+    "name": "KIGUMO",
+    "center": { "lat": -0.789344, "lon": 36.923705 },
+    "no_of_polling_stations": "150",
+    "no_of_polling_centers": "150",
+    "registered_voters": 78481,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/107.json"
+  },
+  {
+    "code": "108",
+    "name": "MARAGWA",
+    "center": { "lat": -0.872034, "lon": 37.180444 },
+    "no_of_polling_stations": "182",
+    "no_of_polling_centers": "182",
+    "registered_voters": 96078,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/108.json"
+  },
+  {
+    "code": "109",
+    "name": "KANDARA",
+    "center": { "lat": -0.884943, "lon": 37.017316 },
+    "no_of_polling_stations": "189",
+    "no_of_polling_centers": "189",
+    "registered_voters": 98633,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/109.json"
+  },
+  {
+    "code": "11",
+    "name": "ISIOLO",
+    "no_of_polling_stations": "195",
+    "no_of_polling_centers": "195",
+    "registered_voters": 75338,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/11.json"
+  },
+  {
+    "code": "110",
+    "name": "GATANGA",
+    "center": { "lat": -0.940489, "lon": 37.069444 },
+    "no_of_polling_stations": "197",
+    "no_of_polling_centers": "197",
+    "registered_voters": 96004,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/110.json"
+  },
+  {
+    "code": "111",
+    "name": "GATUNDU SOUTH",
+    "center": { "lat": -0.969705, "lon": 36.823119 },
+    "no_of_polling_stations": "140",
+    "no_of_polling_centers": "140",
+    "registered_voters": 75858,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/111.json"
+  },
+  {
+    "code": "112",
+    "name": "GATUNDU NORTH",
+    "center": { "lat": -0.906317, "lon": 36.828785 },
+    "no_of_polling_stations": "126",
+    "no_of_polling_centers": "126",
+    "registered_voters": 67598,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/112.json"
+  },
+  {
+    "code": "113",
+    "name": "JUJA",
+    "center": { "lat": -1.1099, "lon": 37.032887 },
+    "no_of_polling_stations": "184",
+    "no_of_polling_centers": "184",
+    "registered_voters": 114761,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/113.json"
+  },
+  {
+    "code": "114",
+    "name": "THIKA TOWN",
+    "center": { "lat": -1.063414, "lon": 37.162062 },
+    "no_of_polling_stations": "230",
+    "no_of_polling_centers": "230",
+    "registered_voters": 147323,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/114.json"
+  },
+  {
+    "code": "115",
+    "name": "RUIRU",
+    "center": { "lat": -1.182458, "lon": 37.002658 },
+    "no_of_polling_stations": "240",
+    "no_of_polling_centers": "240",
+    "registered_voters": 159337,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/115.json"
+  },
+  {
+    "code": "116",
+    "name": "GITHUNGURI",
+    "center": { "lat": -1.06763, "lon": 36.794324 },
+    "no_of_polling_stations": "174",
+    "no_of_polling_centers": "174",
+    "registered_voters": 99384,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/116.json"
+  },
+  {
+    "code": "117",
+    "name": "KIAMBU",
+    "center": { "lat": -1.157335, "lon": 36.84106 },
+    "no_of_polling_stations": "132",
+    "no_of_polling_centers": "132",
+    "registered_voters": 80730,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/117.json"
+  },
+  {
+    "code": "118",
+    "name": "KIAMBAA",
+    "center": { "lat": -1.162697, "lon": 36.760164 },
+    "no_of_polling_stations": "154",
+    "no_of_polling_centers": "154",
+    "registered_voters": 95413,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/118.json"
+  },
+  {
+    "code": "119",
+    "name": "KABETE",
+    "center": { "lat": -1.214928, "lon": 36.698671 },
+    "no_of_polling_stations": "139",
+    "no_of_polling_centers": "139",
+    "registered_voters": 85446,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/119.json"
+  },
+  {
+    "code": "12",
+    "name": "MERU",
+    "no_of_polling_stations": "1473",
+    "no_of_polling_centers": "1473",
+    "registered_voters": 702480,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/12.json"
+  },
+  {
+    "code": "120",
+    "name": "KIKUYU",
+    "center": { "lat": -1.24599, "lon": 36.613059 },
+    "no_of_polling_stations": "149",
+    "no_of_polling_centers": "149",
+    "registered_voters": 91157,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/120.json"
+  },
+  {
+    "code": "121",
+    "name": "LIMURU",
+    "center": { "lat": -1.141737, "lon": 36.625372 },
+    "no_of_polling_stations": "153",
+    "no_of_polling_centers": "153",
+    "registered_voters": 87258,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/121.json"
+  },
+  {
+    "code": "122",
+    "name": "LARI",
+    "center": { "lat": -0.944371, "lon": 36.666889 },
+    "no_of_polling_stations": "142",
+    "no_of_polling_centers": "142",
+    "registered_voters": 76655,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/122.json"
+  },
+  {
+    "code": "123",
+    "name": "TURKANA NORTH",
+    "center": { "lat": 4.45624, "lon": 35.482351 },
+    "no_of_polling_stations": "117",
+    "no_of_polling_centers": "117",
+    "registered_voters": 34008,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/123.json"
+  },
+  {
+    "code": "124",
+    "name": "TURKANA WEST",
+    "center": { "lat": 4.074604, "lon": 34.635678 },
+    "no_of_polling_stations": "100",
+    "no_of_polling_centers": "100",
+    "registered_voters": 31416,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/124.json"
+  },
+  {
+    "code": "125",
+    "name": "TURKANA CENTRAL",
+    "center": { "lat": 3.16652, "lon": 35.911839 },
+    "no_of_polling_stations": "140",
+    "no_of_polling_centers": "140",
+    "registered_voters": 47866,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/125.json"
+  },
+  {
+    "code": "126",
+    "name": "LOIMA",
+    "center": { "lat": 3.028232, "lon": 35.141419 },
+    "no_of_polling_stations": "109",
+    "no_of_polling_centers": "109",
+    "registered_voters": 29103,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/126.json"
+  },
+  {
+    "code": "127",
+    "name": "TURKANA SOUTH",
+    "center": { "lat": 2.380949, "lon": 35.699931 },
+    "no_of_polling_stations": "107",
+    "no_of_polling_centers": "107",
+    "registered_voters": 33422,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/127.json"
+  },
+  {
+    "code": "128",
+    "name": "TURKANA EAST",
+    "center": { "lat": 1.883892, "lon": 36.198204 },
+    "no_of_polling_stations": "71",
+    "no_of_polling_centers": "71",
+    "registered_voters": 15620,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/128.json"
+  },
+  {
+    "code": "129",
+    "name": "KAPENGURIA",
+    "center": { "lat": 1.515275, "lon": 35.145643 },
+    "no_of_polling_stations": "194",
+    "no_of_polling_centers": "194",
+    "registered_voters": 55601,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/129.json"
+  },
+  {
+    "code": "13",
+    "name": "THARAKA - NITHI",
+    "no_of_polling_stations": "625",
+    "no_of_polling_centers": "625",
+    "registered_voters": 213154,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/13.json"
+  },
+  {
+    "code": "130",
+    "name": "SIGOR",
+    "center": { "lat": 1.563447, "lon": 35.544956 },
+    "no_of_polling_stations": "126",
+    "no_of_polling_centers": "126",
+    "registered_voters": 33929,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/130.json"
+  },
+  {
+    "code": "131",
+    "name": "KACHELIBA",
+    "center": { "lat": 2.056555, "lon": 35.112003 },
+    "no_of_polling_stations": "187",
+    "no_of_polling_centers": "187",
+    "registered_voters": 42632,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/131.json"
+  },
+  {
+    "code": "132",
+    "name": "POKOT SOUTH",
+    "center": { "lat": 1.341989, "lon": 35.294305 },
+    "no_of_polling_stations": "205",
+    "no_of_polling_centers": "205",
+    "registered_voters": 48070,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/132.json"
+  },
+  {
+    "code": "133",
+    "name": "SAMBURU WEST",
+    "center": { "lat": 1.040719, "lon": 36.638139 },
+    "no_of_polling_stations": "101",
+    "no_of_polling_centers": "101",
+    "registered_voters": 36103,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/133.json"
+  },
+  {
+    "code": "134",
+    "name": "SAMBURU NORTH",
+    "center": { "lat": 1.682815, "lon": 36.832172 },
+    "no_of_polling_stations": "90",
+    "no_of_polling_centers": "90",
+    "registered_voters": 24588,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/134.json"
+  },
+  {
+    "code": "135",
+    "name": "SAMBURU EAST",
+    "center": { "lat": 1.081354, "lon": 37.476659 },
+    "no_of_polling_stations": "93",
+    "no_of_polling_centers": "93",
+    "registered_voters": 22096,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/135.json"
+  },
+  {
+    "code": "136",
+    "name": "KWANZA",
+    "center": { "lat": 1.147964, "lon": 34.979313 },
+    "no_of_polling_stations": "124",
+    "no_of_polling_centers": "124",
+    "registered_voters": 65643,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/136.json"
+  },
+  {
+    "code": "137",
+    "name": "ENDEBESS",
+    "center": { "lat": 1.127767, "lon": 34.772224 },
+    "no_of_polling_stations": "86",
+    "no_of_polling_centers": "86",
+    "registered_voters": 43189,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/137.json"
+  },
+  {
+    "code": "138",
+    "name": "SABOTI",
+    "center": { "lat": 0.973901, "lon": 34.845263 },
+    "no_of_polling_stations": "135",
+    "no_of_polling_centers": "135",
+    "registered_voters": 76802,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/138.json"
+  },
+  {
+    "code": "139",
+    "name": "KIMININI",
+    "center": { "lat": 0.922091, "lon": 34.970954 },
+    "no_of_polling_stations": "137",
+    "no_of_polling_centers": "137",
+    "registered_voters": 77482,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/139.json"
+  },
+  {
+    "code": "14",
+    "name": "EMBU",
+    "no_of_polling_stations": "710",
+    "no_of_polling_centers": "710",
+    "registered_voters": 309468,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/14.json"
+  },
+  {
+    "code": "140",
+    "name": "CHERANGANY",
+    "center": { "lat": 1.026251, "lon": 35.191681 },
+    "no_of_polling_stations": "157",
+    "no_of_polling_centers": "157",
+    "registered_voters": 76506,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/140.json"
+  },
+  {
+    "code": "141",
+    "name": "SOY",
+    "center": { "lat": 0.814129, "lon": 35.233746 },
+    "no_of_polling_stations": "159",
+    "no_of_polling_centers": "159",
+    "registered_voters": 81867,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/141.json"
+  },
+  {
+    "code": "142",
+    "name": "TURBO",
+    "center": { "lat": 0.600939, "lon": 35.138728 },
+    "no_of_polling_stations": "193",
+    "no_of_polling_centers": "193",
+    "registered_voters": 110851,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/142.json"
+  },
+  {
+    "code": "143",
+    "name": "MOIBEN",
+    "center": { "lat": 0.71144, "lon": 35.397226 },
+    "no_of_polling_stations": "145",
+    "no_of_polling_centers": "145",
+    "registered_voters": 68822,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/143.json"
+  },
+  {
+    "code": "144",
+    "name": "AINABKOI",
+    "center": { "lat": 0.316909, "lon": 35.454233 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 54797,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/144.json"
+  },
+  {
+    "code": "145",
+    "name": "KAPSERET",
+    "center": { "lat": 0.428531, "lon": 35.243035 },
+    "no_of_polling_stations": "119",
+    "no_of_polling_centers": "119",
+    "registered_voters": 66582,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/145.json"
+  },
+  {
+    "code": "146",
+    "name": "KESSES",
+    "center": { "lat": 0.213948, "lon": 35.394459 },
+    "no_of_polling_stations": "139",
+    "no_of_polling_centers": "139",
+    "registered_voters": 67136,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/146.json"
+  },
+  {
+    "code": "147",
+    "name": "MARAKWET EAST",
+    "center": { "lat": 1.148781, "lon": 35.576592 },
+    "no_of_polling_stations": "142",
+    "no_of_polling_centers": "142",
+    "registered_voters": 36428,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/147.json"
+  },
+  {
+    "code": "148",
+    "name": "MARAKWET WEST",
+    "center": { "lat": 1.019952, "lon": 35.430545 },
+    "no_of_polling_stations": "135",
+    "no_of_polling_centers": "135",
+    "registered_voters": 48819,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/148.json"
+  },
+  {
+    "code": "149",
+    "name": "KEIYO NORTH",
+    "center": { "lat": 0.708158, "lon": 35.544158 },
+    "no_of_polling_stations": "103",
+    "no_of_polling_centers": "103",
+    "registered_voters": 41367,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/149.json"
+  },
+  {
+    "code": "15",
+    "name": "KITUI",
+    "no_of_polling_stations": "1454",
+    "no_of_polling_centers": "1454",
+    "registered_voters": 474512,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/15.json"
+  },
+  {
+    "code": "150",
+    "name": "KEIYO SOUTH",
+    "center": { "lat": 0.357304, "lon": 35.587459 },
+    "no_of_polling_stations": "149",
+    "no_of_polling_centers": "149",
+    "registered_voters": 54050,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/150.json"
+  },
+  {
+    "code": "151",
+    "name": "TINDERET",
+    "center": { "lat": -0.006737, "lon": 35.241361 },
+    "no_of_polling_stations": "110",
+    "no_of_polling_centers": "110",
+    "registered_voters": 43971,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/151.json"
+  },
+  {
+    "code": "152",
+    "name": "ALDAI",
+    "center": { "lat": 0.048994, "lon": 34.959025 },
+    "no_of_polling_stations": "170",
+    "no_of_polling_centers": "170",
+    "registered_voters": 65866,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/152.json"
+  },
+  {
+    "code": "153",
+    "name": "NANDI HILLS",
+    "center": { "lat": 0.127703, "lon": 35.265431 },
+    "no_of_polling_stations": "121",
+    "no_of_polling_centers": "121",
+    "registered_voters": 51393,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/153.json"
+  },
+  {
+    "code": "154",
+    "name": "CHESUMEI",
+    "center": { "lat": 0.283948, "lon": 35.091244 },
+    "no_of_polling_stations": "132",
+    "no_of_polling_centers": "132",
+    "registered_voters": 62299,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/154.json"
+  },
+  {
+    "code": "155",
+    "name": "EMGWEN",
+    "center": { "lat": 0.186586, "lon": 35.093338 },
+    "no_of_polling_stations": "120",
+    "no_of_polling_centers": "120",
+    "registered_voters": 58552,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/155.json"
+  },
+  {
+    "code": "156",
+    "name": "MOSOP",
+    "center": { "lat": 0.454411, "lon": 35.02995 },
+    "no_of_polling_stations": "143",
+    "no_of_polling_centers": "143",
+    "registered_voters": 63926,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/156.json"
+  },
+  {
+    "code": "157",
+    "name": "TIATY",
+    "center": { "lat": 1.05144, "lon": 36.018897 },
+    "no_of_polling_stations": "143",
+    "no_of_polling_centers": "143",
+    "registered_voters": 28916,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/157.json"
+  },
+  {
+    "code": "158",
+    "name": "BARINGO  NORTH",
+    "center": { "lat": 0.753312, "lon": 35.794812 },
+    "no_of_polling_stations": "173",
+    "no_of_polling_centers": "173",
+    "registered_voters": 42774,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/158.json"
+  },
+  {
+    "code": "159",
+    "name": "BARINGO CENTRAL",
+    "center": { "lat": 0.427763, "lon": 35.748744 },
+    "no_of_polling_stations": "135",
+    "no_of_polling_centers": "135",
+    "registered_voters": 38388,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/159.json"
+  },
+  {
+    "code": "16",
+    "name": "MACHAKOS",
+    "no_of_polling_stations": "1332",
+    "no_of_polling_centers": "1332",
+    "registered_voters": 620254,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/16.json"
+  },
+  {
+    "code": "160",
+    "name": "BARINGO SOUTH",
+    "center": { "lat": 0.468455, "lon": 36.063226 },
+    "no_of_polling_stations": "132",
+    "no_of_polling_centers": "132",
+    "registered_voters": 35162,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/160.json"
+  },
+  {
+    "code": "161",
+    "name": "MOGOTIO",
+    "center": { "lat": 0.186067, "lon": 35.9955 },
+    "no_of_polling_stations": "155",
+    "no_of_polling_centers": "155",
+    "registered_voters": 32276,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/161.json"
+  },
+  {
+    "code": "162",
+    "name": "ELDAMA RAVINE",
+    "center": { "lat": 0.021768, "lon": 35.745561 },
+    "no_of_polling_stations": "154",
+    "no_of_polling_centers": "154",
+    "registered_voters": 54742,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/162.json"
+  },
+  {
+    "code": "163",
+    "name": "LAIKIPIA WEST",
+    "center": { "lat": 0.325806, "lon": 36.484102 },
+    "no_of_polling_stations": "226",
+    "no_of_polling_centers": "226",
+    "registered_voters": 110930,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/163.json"
+  },
+  {
+    "code": "164",
+    "name": "LAIKIPIA EAST",
+    "center": { "lat": -0.04726, "lon": 36.838801 },
+    "no_of_polling_stations": "177",
+    "no_of_polling_centers": "177",
+    "registered_voters": 88886,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/164.json"
+  },
+  {
+    "code": "165",
+    "name": "LAIKIPIA NORTH",
+    "center": { "lat": 0.424539, "lon": 36.906235 },
+    "no_of_polling_stations": "128",
+    "no_of_polling_centers": "128",
+    "registered_voters": 46671,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/165.json"
+  },
+  {
+    "code": "166",
+    "name": "MOLO",
+    "center": { "lat": -0.340007, "lon": 35.781145 },
+    "no_of_polling_stations": "135",
+    "no_of_polling_centers": "135",
+    "registered_voters": 70992,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/166.json"
+  },
+  {
+    "code": "167",
+    "name": "NJORO",
+    "center": { "lat": -0.487235, "lon": 35.966922 },
+    "no_of_polling_stations": "191",
+    "no_of_polling_centers": "191",
+    "registered_voters": 104687,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/167.json"
+  },
+  {
+    "code": "168",
+    "name": "NAIVASHA",
+    "center": { "lat": -0.868002, "lon": 36.392502 },
+    "no_of_polling_stations": "256",
+    "no_of_polling_centers": "256",
+    "registered_voters": 145049,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/168.json"
+  },
+  {
+    "code": "169",
+    "name": "GILGIL",
+    "center": { "lat": -0.536075, "lon": 36.259638 },
+    "no_of_polling_stations": "162",
+    "no_of_polling_centers": "162",
+    "registered_voters": 85340,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/169.json"
+  },
+  {
+    "code": "17",
+    "name": "MAKUENI",
+    "no_of_polling_stations": "1060",
+    "no_of_polling_centers": "1060",
+    "registered_voters": 423310,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/17.json"
+  },
+  {
+    "code": "170",
+    "name": "KURESOI SOUTH",
+    "center": { "lat": -0.51627, "lon": 35.636385 },
+    "no_of_polling_stations": "115",
+    "no_of_polling_centers": "115",
+    "registered_voters": 55661,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/170.json"
+  },
+  {
+    "code": "171",
+    "name": "KURESOI NORTH",
+    "center": { "lat": -0.290784, "lon": 35.600326 },
+    "no_of_polling_stations": "122",
+    "no_of_polling_centers": "122",
+    "registered_voters": 61344,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/171.json"
+  },
+  {
+    "code": "172",
+    "name": "SUBUKIA",
+    "center": { "lat": -0.011611, "lon": 36.18573 },
+    "no_of_polling_stations": "130",
+    "no_of_polling_centers": "130",
+    "registered_voters": 51582,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/172.json"
+  },
+  {
+    "code": "173",
+    "name": "RONGAI",
+    "center": { "lat": -0.092306, "lon": 35.994048 },
+    "no_of_polling_stations": "182",
+    "no_of_polling_centers": "182",
+    "registered_voters": 77162,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/173.json"
+  },
+  {
+    "code": "174",
+    "name": "BAHATI",
+    "center": { "lat": -0.209806, "lon": 36.127899 },
+    "no_of_polling_stations": "169",
+    "no_of_polling_centers": "169",
+    "registered_voters": 87508,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/174.json"
+  },
+  {
+    "code": "175",
+    "name": "NAKURU TOWN WEST",
+    "center": { "lat": -0.355481, "lon": 36.056874 },
+    "no_of_polling_stations": "159",
+    "no_of_polling_centers": "159",
+    "registered_voters": 97549,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/175.json"
+  },
+  {
+    "code": "176",
+    "name": "NAKURU TOWN EAST",
+    "center": { "lat": -0.356848, "lon": 36.114055 },
+    "no_of_polling_stations": "185",
+    "no_of_polling_centers": "185",
+    "registered_voters": 112744,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/176.json"
+  },
+  {
+    "code": "177",
+    "name": "KILGORIS",
+    "center": { "lat": -1.179114, "lon": 34.877529 },
+    "no_of_polling_stations": "165",
+    "no_of_polling_centers": "165",
+    "registered_voters": 67079,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/177.json"
+  },
+  {
+    "code": "178",
+    "name": "EMURUA DIKIRR",
+    "center": { "lat": -0.986714, "lon": 35.080385 },
+    "no_of_polling_stations": "75",
+    "no_of_polling_centers": "75",
+    "registered_voters": 35531,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/178.json"
+  },
+  {
+    "code": "179",
+    "name": "NAROK NORTH",
+    "center": { "lat": -0.815994, "lon": 35.859101 },
+    "no_of_polling_stations": "162",
+    "no_of_polling_centers": "162",
+    "registered_voters": 78380,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/179.json"
+  },
+  {
+    "code": "18",
+    "name": "NYANDARUA",
+    "no_of_polling_stations": "654",
+    "no_of_polling_centers": "654",
+    "registered_voters": 335634,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/18.json"
+  },
+  {
+    "code": "180",
+    "name": "NAROK EAST",
+    "center": { "lat": -1.129034, "lon": 36.119147 },
+    "no_of_polling_stations": "84",
+    "no_of_polling_centers": "84",
+    "registered_voters": 39559,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/180.json"
+  },
+  {
+    "code": "181",
+    "name": "NAROK SOUTH",
+    "center": { "lat": -1.449976, "lon": 35.792043 },
+    "no_of_polling_stations": "143",
+    "no_of_polling_centers": "143",
+    "registered_voters": 65772,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/181.json"
+  },
+  {
+    "code": "182",
+    "name": "NAROK WEST",
+    "center": { "lat": -1.388095, "lon": 35.3847 },
+    "no_of_polling_stations": "121",
+    "no_of_polling_centers": "121",
+    "registered_voters": 55409,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/182.json"
+  },
+  {
+    "code": "183",
+    "name": "KAJIADO NORTH",
+    "center": { "lat": -1.379194, "lon": 36.680993 },
+    "no_of_polling_stations": "201",
+    "no_of_polling_centers": "201",
+    "registered_voters": 127953,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/183.json"
+  },
+  {
+    "code": "184",
+    "name": "KAJIADO CENTRAL",
+    "center": { "lat": -2.19544, "lon": 36.817489 },
+    "no_of_polling_stations": "125",
+    "no_of_polling_centers": "125",
+    "registered_voters": 56434,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/184.json"
+  },
+  {
+    "code": "185",
+    "name": "KAJIADO EAST",
+    "center": { "lat": -1.947427, "lon": 37.189395 },
+    "no_of_polling_stations": "184",
+    "no_of_polling_centers": "184",
+    "registered_voters": 102804,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/185.json"
+  },
+  {
+    "code": "186",
+    "name": "KAJIADO WEST",
+    "center": { "lat": -1.727718, "lon": 36.388535 },
+    "no_of_polling_stations": "148",
+    "no_of_polling_centers": "148",
+    "registered_voters": 64026,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/186.json"
+  },
+  {
+    "code": "187",
+    "name": "KAJIADO SOUTH",
+    "center": { "lat": -2.656501, "lon": 37.470133 },
+    "no_of_polling_stations": "139",
+    "no_of_polling_centers": "139",
+    "registered_voters": 59976,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/187.json"
+  },
+  {
+    "code": "188",
+    "name": "KIPKELION EAST",
+    "center": { "lat": -0.169302, "lon": 35.513312 },
+    "no_of_polling_stations": "119",
+    "no_of_polling_centers": "119",
+    "registered_voters": 56486,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/188.json"
+  },
+  {
+    "code": "189",
+    "name": "KIPKELION WEST",
+    "center": { "lat": -0.148693, "lon": 35.396737 },
+    "no_of_polling_stations": "106",
+    "no_of_polling_centers": "106",
+    "registered_voters": 46512,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/189.json"
+  },
+  {
+    "code": "19",
+    "name": "NYERI",
+    "no_of_polling_stations": "917",
+    "no_of_polling_centers": "917",
+    "registered_voters": 456949,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/19.json"
+  },
+  {
+    "code": "190",
+    "name": "AINAMOI",
+    "center": { "lat": -0.303028, "lon": 35.276669 },
+    "no_of_polling_stations": "149",
+    "no_of_polling_centers": "149",
+    "registered_voters": 75521,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/190.json"
+  },
+  {
+    "code": "191",
+    "name": "BURETI",
+    "center": { "lat": -0.562575, "lon": 35.133333 },
+    "no_of_polling_stations": "177",
+    "no_of_polling_centers": "177",
+    "registered_voters": 82417,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/191.json"
+  },
+  {
+    "code": "192",
+    "name": "BELGUT",
+    "center": { "lat": -0.410786, "lon": 35.269715 },
+    "no_of_polling_stations": "127",
+    "no_of_polling_centers": "127",
+    "registered_voters": 67599,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/192.json"
+  },
+  {
+    "code": "193",
+    "name": "SIGOWET/SOIN",
+    "center": { "lat": -0.298796, "lon": 35.113227 },
+    "no_of_polling_stations": "102",
+    "no_of_polling_centers": "102",
+    "registered_voters": 47133,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/193.json"
+  },
+  {
+    "code": "194",
+    "name": "SOTIK",
+    "center": { "lat": -0.755117, "lon": 35.136646 },
+    "no_of_polling_stations": "171",
+    "no_of_polling_centers": "171",
+    "registered_voters": 73314,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/194.json"
+  },
+  {
+    "code": "195",
+    "name": "CHEPALUNGU",
+    "center": { "lat": -0.896278, "lon": 35.252002 },
+    "no_of_polling_stations": "160",
+    "no_of_polling_centers": "160",
+    "registered_voters": 68544,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/195.json"
+  },
+  {
+    "code": "196",
+    "name": "BOMET EAST",
+    "center": { "lat": -0.832325, "lon": 35.418952 },
+    "no_of_polling_stations": "115",
+    "no_of_polling_centers": "115",
+    "registered_voters": 52862,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/196.json"
+  },
+  {
+    "code": "197",
+    "name": "BOMET CENTRAL",
+    "center": { "lat": -0.721573, "lon": 35.314474 },
+    "no_of_polling_stations": "126",
+    "no_of_polling_centers": "126",
+    "registered_voters": 60115,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/197.json"
+  },
+  {
+    "code": "198",
+    "name": "KONOIN",
+    "center": { "lat": -0.54169, "lon": 35.373481 },
+    "no_of_polling_stations": "156",
+    "no_of_polling_centers": "156",
+    "registered_voters": 67177,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/198.json"
+  },
+  {
+    "code": "199",
+    "name": "LUGARI",
+    "center": { "lat": 0.645995, "lon": 34.91525 },
+    "no_of_polling_stations": "159",
+    "no_of_polling_centers": "159",
+    "registered_voters": 77001,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/199.json"
+  },
+  {
+    "code": "20",
+    "name": "KIRINYAGA",
+    "no_of_polling_stations": "659",
+    "no_of_polling_centers": "659",
+    "registered_voters": 349836,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/20.json"
+  },
+  {
+    "code": "200",
+    "name": "LIKUYANI",
+    "center": { "lat": 0.763804, "lon": 35.089894 },
+    "no_of_polling_stations": "120",
+    "no_of_polling_centers": "120",
+    "registered_voters": 63311,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/200.json"
+  },
+  {
+    "code": "201",
+    "name": "MALAVA",
+    "center": { "lat": 0.451759, "lon": 34.834448 },
+    "no_of_polling_stations": "160",
+    "no_of_polling_centers": "160",
+    "registered_voters": 82136,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/201.json"
+  },
+  {
+    "code": "202",
+    "name": "LURAMBI",
+    "center": { "lat": 0.287159, "lon": 34.702002 },
+    "no_of_polling_stations": "166",
+    "no_of_polling_centers": "166",
+    "registered_voters": 80037,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/202.json"
+  },
+  {
+    "code": "203",
+    "name": "NAVAKHOLO",
+    "center": { "lat": 0.399803, "lon": 34.673984 },
+    "no_of_polling_stations": "118",
+    "no_of_polling_centers": "118",
+    "registered_voters": 53620,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/203.json"
+  },
+  {
+    "code": "204",
+    "name": "MUMIAS WEST",
+    "center": { "lat": 0.275913, "lon": 34.443505 },
+    "no_of_polling_stations": "92",
+    "no_of_polling_centers": "92",
+    "registered_voters": 47492,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/204.json"
+  },
+  {
+    "code": "205",
+    "name": "MUMIAS EAST",
+    "center": { "lat": 0.3297, "lon": 34.56536 },
+    "no_of_polling_stations": "91",
+    "no_of_polling_centers": "91",
+    "registered_voters": 45380,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/205.json"
+  },
+  {
+    "code": "206",
+    "name": "MATUNGU",
+    "center": { "lat": 0.407822, "lon": 34.459772 },
+    "no_of_polling_stations": "115",
+    "no_of_polling_centers": "115",
+    "registered_voters": 61728,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/206.json"
+  },
+  {
+    "code": "207",
+    "name": "BUTERE",
+    "center": { "lat": 0.222388, "lon": 34.523482 },
+    "no_of_polling_stations": "124",
+    "no_of_polling_centers": "124",
+    "registered_voters": 62956,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/207.json"
+  },
+  {
+    "code": "208",
+    "name": "KHWISERO",
+    "center": { "lat": 0.147899, "lon": 34.582292 },
+    "no_of_polling_stations": "105",
+    "no_of_polling_centers": "105",
+    "registered_voters": 48920,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/208.json"
+  },
+  {
+    "code": "209",
+    "name": "SHINYALU",
+    "center": { "lat": 0.27348, "lon": 34.857615 },
+    "no_of_polling_stations": "144",
+    "no_of_polling_centers": "144",
+    "registered_voters": 71256,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/209.json"
+  },
+  {
+    "code": "21",
+    "name": "MURANG'A",
+    "no_of_polling_stations": "1131",
+    "no_of_polling_centers": "1131",
+    "registered_voters": 587126,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/21.json"
+  },
+  {
+    "code": "210",
+    "name": "IKOLOMANI",
+    "center": { "lat": 0.192293, "lon": 34.70886 },
+    "no_of_polling_stations": "103",
+    "no_of_polling_centers": "103",
+    "registered_voters": 49899,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/210.json"
+  },
+  {
+    "code": "211",
+    "name": "VIHIGA",
+    "center": { "lat": 0.035199, "lon": 34.692326 },
+    "no_of_polling_stations": "86",
+    "no_of_polling_centers": "86",
+    "registered_voters": 45309,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/211.json"
+  },
+  {
+    "code": "212",
+    "name": "SABATIA",
+    "center": { "lat": 0.114872, "lon": 34.755464 },
+    "no_of_polling_stations": "128",
+    "no_of_polling_centers": "128",
+    "registered_voters": 63035,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/212.json"
+  },
+  {
+    "code": "213",
+    "name": "HAMISI",
+    "center": { "lat": 0.098125, "lon": 34.821339 },
+    "no_of_polling_stations": "148",
+    "no_of_polling_centers": "148",
+    "registered_voters": 73357,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/213.json"
+  },
+  {
+    "code": "214",
+    "name": "LUANDA",
+    "center": { "lat": 0.024001, "lon": 34.600191 },
+    "no_of_polling_stations": "99",
+    "no_of_polling_centers": "99",
+    "registered_voters": 49214,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/214.json"
+  },
+  {
+    "code": "215",
+    "name": "EMUHAYA",
+    "center": { "lat": 0.08806, "lon": 34.614694 },
+    "no_of_polling_stations": "87",
+    "no_of_polling_centers": "87",
+    "registered_voters": 41494,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/215.json"
+  },
+  {
+    "code": "216",
+    "name": "MT. ELGON",
+    "center": { "lat": 0.92717, "lon": 34.596096 },
+    "no_of_polling_stations": "152",
+    "no_of_polling_centers": "152",
+    "registered_voters": 66220,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/216.json"
+  },
+  {
+    "code": "217",
+    "name": "SIRISIA",
+    "center": { "lat": 0.745145, "lon": 34.471808 },
+    "no_of_polling_stations": "99",
+    "no_of_polling_centers": "99",
+    "registered_voters": 40940,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/217.json"
+  },
+  {
+    "code": "218",
+    "name": "KABUCHAI",
+    "center": { "lat": 0.692551, "lon": 34.602713 },
+    "no_of_polling_stations": "123",
+    "no_of_polling_centers": "123",
+    "registered_voters": 57476,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/218.json"
+  },
+  {
+    "code": "219",
+    "name": "BUMULA",
+    "center": { "lat": 0.566062, "lon": 34.456255 },
+    "no_of_polling_stations": "148",
+    "no_of_polling_centers": "148",
+    "registered_voters": 70683,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/219.json"
+  },
+  {
+    "code": "22",
+    "name": "KIAMBU",
+    "no_of_polling_stations": "1963",
+    "no_of_polling_centers": "1963",
+    "registered_voters": 1180920,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/22.json"
+  },
+  {
+    "code": "220",
+    "name": "KANDUYI",
+    "center": { "lat": 0.55673, "lon": 34.591743 },
+    "no_of_polling_stations": "204",
+    "no_of_polling_centers": "204",
+    "registered_voters": 105565,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/220.json"
+  },
+  {
+    "code": "221",
+    "name": "WEBUYE EAST",
+    "center": { "lat": 0.660835, "lon": 34.786017 },
+    "no_of_polling_stations": "93",
+    "no_of_polling_centers": "93",
+    "registered_voters": 42263,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/221.json"
+  },
+  {
+    "code": "222",
+    "name": "WEBUYE WEST",
+    "center": { "lat": 0.624864, "lon": 34.702303 },
+    "no_of_polling_stations": "96",
+    "no_of_polling_centers": "96",
+    "registered_voters": 50466,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/222.json"
+  },
+  {
+    "code": "223",
+    "name": "KIMILILI",
+    "center": { "lat": 0.785175, "lon": 34.733495 },
+    "no_of_polling_stations": "107",
+    "no_of_polling_centers": "107",
+    "registered_voters": 52268,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/223.json"
+  },
+  {
+    "code": "224",
+    "name": "TONGAREN",
+    "center": { "lat": 0.782765, "lon": 34.927083 },
+    "no_of_polling_stations": "164",
+    "no_of_polling_centers": "164",
+    "registered_voters": 73969,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/224.json"
+  },
+  {
+    "code": "225",
+    "name": "TESO NORTH",
+    "center": { "lat": 0.680036, "lon": 34.34132 },
+    "no_of_polling_stations": "118",
+    "no_of_polling_centers": "118",
+    "registered_voters": 49833,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/225.json"
+  },
+  {
+    "code": "226",
+    "name": "TESO SOUTH",
+    "center": { "lat": 0.541706, "lon": 34.218339 },
+    "no_of_polling_stations": "136",
+    "no_of_polling_centers": "136",
+    "registered_voters": 61342,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/226.json"
+  },
+  {
+    "code": "227",
+    "name": "NAMBALE",
+    "center": { "lat": 0.484942, "lon": 34.313818 },
+    "no_of_polling_stations": "86",
+    "no_of_polling_centers": "86",
+    "registered_voters": 42259,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/227.json"
+  },
+  {
+    "code": "228",
+    "name": "MATAYOS",
+    "center": { "lat": 0.404977, "lon": 34.167186 },
+    "no_of_polling_stations": "117",
+    "no_of_polling_centers": "117",
+    "registered_voters": 56841,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/228.json"
+  },
+  {
+    "code": "229",
+    "name": "BUTULA",
+    "center": { "lat": 0.351619, "lon": 34.29461 },
+    "no_of_polling_stations": "120",
+    "no_of_polling_centers": "120",
+    "registered_voters": 57685,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/229.json"
+  },
+  {
+    "code": "23",
+    "name": "TURKANA",
+    "no_of_polling_stations": "644",
+    "no_of_polling_centers": "644",
+    "registered_voters": 191435,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/23.json"
+  },
+  {
+    "code": "230",
+    "name": "FUNYULA",
+    "center": { "lat": 0.24753, "lon": 34.077159 },
+    "no_of_polling_stations": "99",
+    "no_of_polling_centers": "99",
+    "registered_voters": 44671,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/230.json"
+  },
+  {
+    "code": "231",
+    "name": "BUDALANGI",
+    "center": { "lat": 0.07906, "lon": 33.995693 },
+    "no_of_polling_stations": "84",
+    "no_of_polling_centers": "84",
+    "registered_voters": 38417,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/231.json"
+  },
+  {
+    "code": "232",
+    "name": "UGENYA",
+    "center": { "lat": 0.238977, "lon": 34.225533 },
+    "no_of_polling_stations": "112",
+    "no_of_polling_centers": "112",
+    "registered_voters": 57603,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/232.json"
+  },
+  {
+    "code": "233",
+    "name": "UGUNJA",
+    "center": { "lat": 0.194415, "lon": 34.334598 },
+    "no_of_polling_stations": "102",
+    "no_of_polling_centers": "102",
+    "registered_voters": 50487,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/233.json"
+  },
+  {
+    "code": "234",
+    "name": "ALEGO USONGA",
+    "center": { "lat": 0.064157, "lon": 34.232099 },
+    "no_of_polling_stations": "206",
+    "no_of_polling_centers": "206",
+    "registered_voters": 103334,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/234.json"
+  },
+  {
+    "code": "235",
+    "name": "GEM",
+    "center": { "lat": 0.048855, "lon": 34.452667 },
+    "no_of_polling_stations": "168",
+    "no_of_polling_centers": "168",
+    "registered_voters": 80472,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/235.json"
+  },
+  {
+    "code": "236",
+    "name": "BONDO",
+    "center": { "lat": -0.161981, "lon": 34.127597 },
+    "no_of_polling_stations": "177",
+    "no_of_polling_centers": "177",
+    "registered_voters": 90278,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/236.json"
+  },
+  {
+    "code": "237",
+    "name": "RARIEDA",
+    "center": { "lat": -0.251341, "lon": 34.351802 },
+    "no_of_polling_stations": "151",
+    "no_of_polling_centers": "151",
+    "registered_voters": 75779,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/237.json"
+  },
+  {
+    "code": "238",
+    "name": "KISUMU EAST",
+    "center": { "lat": -0.106159, "lon": 34.793786 },
+    "no_of_polling_stations": "141",
+    "no_of_polling_centers": "141",
+    "registered_voters": 81538,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/238.json"
+  },
+  {
+    "code": "239",
+    "name": "KISUMU WEST",
+    "center": { "lat": -0.089224, "lon": 34.654886 },
+    "no_of_polling_stations": "142",
+    "no_of_polling_centers": "142",
+    "registered_voters": 74439,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/239.json"
+  },
+  {
+    "code": "24",
+    "name": "WEST POKOT",
+    "no_of_polling_stations": "712",
+    "no_of_polling_centers": "712",
+    "registered_voters": 180232,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/24.json"
+  },
+  {
+    "code": "240",
+    "name": "KISUMU CENTRAL",
+    "center": { "lat": -0.115682, "lon": 34.741149 },
+    "no_of_polling_stations": "196",
+    "no_of_polling_centers": "196",
+    "registered_voters": 120023,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/240.json"
+  },
+  {
+    "code": "241",
+    "name": "SEME",
+    "center": { "lat": -0.14663, "lon": 34.517169 },
+    "no_of_polling_stations": "111",
+    "no_of_polling_centers": "111",
+    "registered_voters": 53555,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/241.json"
+  },
+  {
+    "code": "242",
+    "name": "NYANDO",
+    "center": { "lat": -0.210135, "lon": 34.867001 },
+    "no_of_polling_stations": "148",
+    "no_of_polling_centers": "148",
+    "registered_voters": 71680,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/242.json"
+  },
+  {
+    "code": "243",
+    "name": "MUHORONI",
+    "center": { "lat": -0.105183, "lon": 35.080538 },
+    "no_of_polling_stations": "142",
+    "no_of_polling_centers": "142",
+    "registered_voters": 69091,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/243.json"
+  },
+  {
+    "code": "244",
+    "name": "NYAKACH",
+    "center": { "lat": -0.321534, "lon": 34.906165 },
+    "no_of_polling_stations": "147",
+    "no_of_polling_centers": "147",
+    "registered_voters": 68884,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/244.json"
+  },
+  {
+    "code": "245",
+    "name": "KASIPUL",
+    "center": { "lat": -0.499234, "lon": 34.709609 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 57344,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/245.json"
+  },
+  {
+    "code": "246",
+    "name": "KABONDO KASIPUL",
+    "center": { "lat": -0.440749, "lon": 34.861699 },
+    "no_of_polling_stations": "105",
+    "no_of_polling_centers": "105",
+    "registered_voters": 49432,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/246.json"
+  },
+  {
+    "code": "247",
+    "name": "KARACHUONYO",
+    "center": { "lat": -0.362328, "lon": 34.600892 },
+    "no_of_polling_stations": "184",
+    "no_of_polling_centers": "184",
+    "registered_voters": 84004,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/247.json"
+  },
+  {
+    "code": "248",
+    "name": "RANGWE",
+    "center": { "lat": -0.536376, "lon": 34.568956 },
+    "no_of_polling_stations": "118",
+    "no_of_polling_centers": "118",
+    "registered_voters": 52516,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/248.json"
+  },
+  {
+    "code": "249",
+    "name": "HOMA BAY TOWN",
+    "center": { "lat": -0.554185, "lon": 34.475295 },
+    "no_of_polling_stations": "105",
+    "no_of_polling_centers": "105",
+    "registered_voters": 50570,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/249.json"
+  },
+  {
+    "code": "25",
+    "name": "SAMBURU",
+    "no_of_polling_stations": "284",
+    "no_of_polling_centers": "284",
+    "registered_voters": 82787,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/25.json"
+  },
+  {
+    "code": "250",
+    "name": "NDHIWA",
+    "center": { "lat": -0.731236, "lon": 34.381385 },
+    "no_of_polling_stations": "185",
+    "no_of_polling_centers": "185",
+    "registered_voters": 85056,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/250.json"
+  },
+  {
+    "code": "251",
+    "name": "SUBA NORTH",
+    "center": { "lat": -0.457118, "lon": 34.175793 },
+    "no_of_polling_stations": "139",
+    "no_of_polling_centers": "139",
+    "registered_voters": 51454,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/251.json"
+  },
+  {
+    "code": "252",
+    "name": "SUBA SOUTH",
+    "center": { "lat": -0.642825, "lon": 34.093212 },
+    "no_of_polling_stations": "113",
+    "no_of_polling_centers": "113",
+    "registered_voters": 46499,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/252.json"
+  },
+  {
+    "code": "253",
+    "name": "RONGO",
+    "center": { "lat": -0.773278, "lon": 34.59531 },
+    "no_of_polling_stations": "97",
+    "no_of_polling_centers": "97",
+    "registered_voters": 48412,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/253.json"
+  },
+  {
+    "code": "254",
+    "name": "AWENDO",
+    "center": { "lat": -0.869636, "lon": 34.541918 },
+    "no_of_polling_stations": "101",
+    "no_of_polling_centers": "101",
+    "registered_voters": 48293,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/254.json"
+  },
+  {
+    "code": "255",
+    "name": "SUNA EAST",
+    "center": { "lat": -1.054182, "lon": 34.487311 },
+    "no_of_polling_stations": "95",
+    "no_of_polling_centers": "95",
+    "registered_voters": 46534,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/255.json"
+  },
+  {
+    "code": "256",
+    "name": "SUNA WEST",
+    "center": { "lat": -1.089822, "lon": 34.359202 },
+    "no_of_polling_stations": "88",
+    "no_of_polling_centers": "88",
+    "registered_voters": 46030,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/256.json"
+  },
+  {
+    "code": "257",
+    "name": "URIRI",
+    "center": { "lat": -0.939796, "lon": 34.448218 },
+    "no_of_polling_stations": "110",
+    "no_of_polling_centers": "110",
+    "registered_voters": 51676,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/257.json"
+  },
+  {
+    "code": "258",
+    "name": "NYATIKE",
+    "center": { "lat": -0.920507, "lon": 34.139644 },
+    "no_of_polling_stations": "138",
+    "no_of_polling_centers": "138",
+    "registered_voters": 61477,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/258.json"
+  },
+  {
+    "code": "259",
+    "name": "KURIA WEST",
+    "center": { "lat": -1.174257, "lon": 34.515115 },
+    "no_of_polling_stations": "117",
+    "no_of_polling_centers": "117",
+    "registered_voters": 51057,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/259.json"
+  },
+  {
+    "code": "26",
+    "name": "TRANS NZOIA",
+    "no_of_polling_stations": "639",
+    "no_of_polling_centers": "639",
+    "registered_voters": 339622,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/26.json"
+  },
+  {
+    "code": "260",
+    "name": "KURIA EAST",
+    "center": { "lat": -1.274629, "lon": 34.63659 },
+    "no_of_polling_stations": "80",
+    "no_of_polling_centers": "80",
+    "registered_voters": 35154,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/260.json"
+  },
+  {
+    "code": "261",
+    "name": "BONCHARI",
+    "center": { "lat": -0.664599, "lon": 34.689852 },
+    "no_of_polling_stations": "102",
+    "no_of_polling_centers": "102",
+    "registered_voters": 52624,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/261.json"
+  },
+  {
+    "code": "262",
+    "name": "SOUTH MUGIRANGO",
+    "center": { "lat": -0.849868, "lon": 34.656079 },
+    "no_of_polling_stations": "144",
+    "no_of_polling_centers": "144",
+    "registered_voters": 67345,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/262.json"
+  },
+  {
+    "code": "263",
+    "name": "BOMACHOGE BORABU",
+    "center": { "lat": -0.910306, "lon": 34.754751 },
+    "no_of_polling_stations": "105",
+    "no_of_polling_centers": "105",
+    "registered_voters": 49081,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/263.json"
+  },
+  {
+    "code": "264",
+    "name": "BOBASI",
+    "center": { "lat": -0.830699, "lon": 34.808539 },
+    "no_of_polling_stations": "184",
+    "no_of_polling_centers": "184",
+    "registered_voters": 89310,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/264.json"
+  },
+  {
+    "code": "265",
+    "name": "BOMACHOGE CHACHE",
+    "center": { "lat": -0.810179, "lon": 34.709283 },
+    "no_of_polling_stations": "89",
+    "no_of_polling_centers": "89",
+    "registered_voters": 41745,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/265.json"
+  },
+  {
+    "code": "266",
+    "name": "NYARIBARI MASABA",
+    "center": { "lat": -0.838924, "lon": 34.931741 },
+    "no_of_polling_stations": "132",
+    "no_of_polling_centers": "132",
+    "registered_voters": 59064,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/266.json"
+  },
+  {
+    "code": "267",
+    "name": "NYARIBARI CHACHE",
+    "center": { "lat": -0.739093, "lon": 34.822799 },
+    "no_of_polling_stations": "149",
+    "no_of_polling_centers": "149",
+    "registered_voters": 77729,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/267.json"
+  },
+  {
+    "code": "268",
+    "name": "KITUTU CHACHE NORTH",
+    "center": { "lat": -0.56467, "lon": 34.820016 },
+    "no_of_polling_stations": "106",
+    "no_of_polling_centers": "106",
+    "registered_voters": 50665,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/268.json"
+  },
+  {
+    "code": "269",
+    "name": "KITUTU CHACHE SOUTH",
+    "center": { "lat": -0.618229, "lon": 34.753904 },
+    "no_of_polling_stations": "115",
+    "no_of_polling_centers": "115",
+    "registered_voters": 59017,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/269.json"
+  },
+  {
+    "code": "27",
+    "name": "UASIN GISHU",
+    "no_of_polling_stations": "868",
+    "no_of_polling_centers": "868",
+    "registered_voters": 450055,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/27.json"
+  },
+  {
+    "code": "270",
+    "name": "KITUTU MASABA",
+    "center": { "lat": -0.688534, "lon": 34.902158 },
+    "no_of_polling_stations": "187",
+    "no_of_polling_centers": "187",
+    "registered_voters": 93246,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/270.json"
+  },
+  {
+    "code": "271",
+    "name": "WEST MUGIRANGO",
+    "center": { "lat": -0.583596, "lon": 34.929636 },
+    "no_of_polling_stations": "147",
+    "no_of_polling_centers": "147",
+    "registered_voters": 76392,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/271.json"
+  },
+  {
+    "code": "272",
+    "name": "NORTH MUGIRANGO",
+    "center": { "lat": -0.501335, "lon": 34.992797 },
+    "no_of_polling_stations": "111",
+    "no_of_polling_centers": "111",
+    "registered_voters": 54306,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/272.json"
+  },
+  {
+    "code": "273",
+    "name": "BORABU",
+    "center": { "lat": -0.713771, "lon": 35.021785 },
+    "no_of_polling_stations": "108",
+    "no_of_polling_centers": "108",
+    "registered_voters": 54909,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/273.json"
+  },
+  {
+    "code": "274",
+    "name": "WESTLANDS",
+    "center": { "lat": -1.238456, "lon": 36.788294 },
+    "no_of_polling_stations": "230",
+    "no_of_polling_centers": "230",
+    "registered_voters": 152718,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/274.json"
+  },
+  {
+    "code": "275",
+    "name": "DAGORETTI NORTH",
+    "center": { "lat": -1.278738, "lon": 36.780121 },
+    "no_of_polling_stations": "220",
+    "no_of_polling_centers": "220",
+    "registered_voters": 147214,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/275.json"
+  },
+  {
+    "code": "276",
+    "name": "DAGORETTI SOUTH",
+    "center": { "lat": -1.282524, "lon": 36.715569 },
+    "no_of_polling_stations": "168",
+    "no_of_polling_centers": "168",
+    "registered_voters": 107239,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/276.json"
+  },
+  {
+    "code": "277",
+    "name": "LANGATA",
+    "center": { "lat": -1.354486, "lon": 36.804654 },
+    "no_of_polling_stations": "200",
+    "no_of_polling_centers": "200",
+    "registered_voters": 132572,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/277.json"
+  },
+  {
+    "code": "278",
+    "name": "KIBRA",
+    "center": { "lat": -1.304002, "lon": 36.788108 },
+    "no_of_polling_stations": "180",
+    "no_of_polling_centers": "180",
+    "registered_voters": 118276,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/278.json"
+  },
+  {
+    "code": "279",
+    "name": "ROYSAMBU",
+    "center": { "lat": -1.202966, "lon": 36.883707 },
+    "no_of_polling_stations": "221",
+    "no_of_polling_centers": "221",
+    "registered_voters": 147582,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/279.json"
+  },
+  {
+    "code": "28",
+    "name": "ELGEYO/MARAKWET",
+    "no_of_polling_stations": "529",
+    "no_of_polling_centers": "529",
+    "registered_voters": 180664,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/28.json"
+  },
+  {
+    "code": "280",
+    "name": "KASARANI",
+    "center": { "lat": -1.249391, "lon": 37.008274 },
+    "no_of_polling_stations": "222",
+    "no_of_polling_centers": "222",
+    "registered_voters": 146701,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/280.json"
+  },
+  {
+    "code": "281",
+    "name": "RUARAKA",
+    "center": { "lat": -1.244053, "lon": 36.879083 },
+    "no_of_polling_stations": "175",
+    "no_of_polling_centers": "175",
+    "registered_voters": 116301,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/281.json"
+  },
+  {
+    "code": "282",
+    "name": "EMBAKASI SOUTH",
+    "center": { "lat": -1.329057, "lon": 36.877524 },
+    "no_of_polling_stations": "221",
+    "no_of_polling_centers": "221",
+    "registered_voters": 150314,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/282.json"
+  },
+  {
+    "code": "283",
+    "name": "EMBAKASI NORTH",
+    "center": { "lat": -1.247138, "lon": 36.897499 },
+    "no_of_polling_stations": "157",
+    "no_of_polling_centers": "157",
+    "registered_voters": 104253,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/283.json"
+  },
+  {
+    "code": "284",
+    "name": "EMBAKASI CENTRAL",
+    "center": { "lat": -1.268431, "lon": 36.921099 },
+    "no_of_polling_stations": "193",
+    "no_of_polling_centers": "193",
+    "registered_voters": 131991,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/284.json"
+  },
+  {
+    "code": "285",
+    "name": "EMBAKASI EAST",
+    "center": { "lat": -1.306139, "lon": 36.93679 },
+    "no_of_polling_stations": "207",
+    "no_of_polling_centers": "207",
+    "registered_voters": 140740,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/285.json"
+  },
+  {
+    "code": "286",
+    "name": "EMBAKASI WEST",
+    "center": { "lat": -1.268856, "lon": 36.897762 },
+    "no_of_polling_stations": "187",
+    "no_of_polling_centers": "187",
+    "registered_voters": 126682,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/286.json"
+  },
+  {
+    "code": "287",
+    "name": "MAKADARA",
+    "center": { "lat": -1.29602, "lon": 36.86865 },
+    "no_of_polling_stations": "192",
+    "no_of_polling_centers": "192",
+    "registered_voters": 126048,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/287.json"
+  },
+  {
+    "code": "288",
+    "name": "KAMUKUNJI",
+    "center": { "lat": -1.275406, "lon": 36.858819 },
+    "no_of_polling_stations": "181",
+    "no_of_polling_centers": "181",
+    "registered_voters": 120266,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/288.json"
+  },
+  {
+    "code": "289",
+    "name": "STAREHE",
+    "center": { "lat": -1.290292, "lon": 36.834684 },
+    "no_of_polling_stations": "253",
+    "no_of_polling_centers": "253",
+    "registered_voters": 166397,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/289.json"
+  },
+  {
+    "code": "29",
+    "name": "NANDI",
+    "no_of_polling_stations": "796",
+    "no_of_polling_centers": "796",
+    "registered_voters": 346007,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/29.json"
+  },
+  {
+    "code": "290",
+    "name": "MATHARE",
+    "center": { "lat": -1.258112, "lon": 36.860583 },
+    "no_of_polling_stations": "171",
+    "no_of_polling_centers": "171",
+    "registered_voters": 115559,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/290.json"
+  },
+  {
+    "code": "291",
+    "name": "DIASPORA",
+    "center": { "lat": 0, "lon": 0 },
+    "no_of_polling_stations": "10",
+    "no_of_polling_centers": "10",
+    "registered_voters": 4393,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/291.json"
+  },
+  {
+    "code": "292",
+    "name": "PRISONS",
+    "center": {},
+    "no_of_polling_stations": "103",
+    "no_of_polling_centers": "103",
+    "registered_voters": 5528,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/292.json"
+  },
+  {
+    "code": "30",
+    "name": "BARINGO",
+    "no_of_polling_stations": "892",
+    "no_of_polling_centers": "892",
+    "registered_voters": 232258,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/30.json"
+  },
+  {
+    "code": "31",
+    "name": "LAIKIPIA",
+    "no_of_polling_stations": "531",
+    "no_of_polling_centers": "531",
+    "registered_voters": 246487,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/31.json"
+  },
+  {
+    "code": "32",
+    "name": "NAKURU",
+    "no_of_polling_stations": "1806",
+    "no_of_polling_centers": "1806",
+    "registered_voters": 949618,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/32.json"
+  },
+  {
+    "code": "33",
+    "name": "NAROK",
+    "no_of_polling_stations": "750",
+    "no_of_polling_centers": "750",
+    "registered_voters": 341730,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/33.json"
+  },
+  {
+    "code": "34",
+    "name": "KAJIADO",
+    "no_of_polling_stations": "797",
+    "no_of_polling_centers": "797",
+    "registered_voters": 411193,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/34.json"
+  },
+  {
+    "code": "35",
+    "name": "KERICHO",
+    "no_of_polling_stations": "780",
+    "no_of_polling_centers": "780",
+    "registered_voters": 375668,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/35.json"
+  },
+  {
+    "code": "36",
+    "name": "BOMET",
+    "no_of_polling_stations": "728",
+    "no_of_polling_centers": "728",
+    "registered_voters": 322012,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/36.json"
+  },
+  {
+    "code": "37",
+    "name": "KAKAMEGA",
+    "no_of_polling_stations": "1497",
+    "no_of_polling_centers": "1497",
+    "registered_voters": 743736,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/37.json"
+  },
+  {
+    "code": "38",
+    "name": "VIHIGA",
+    "no_of_polling_stations": "548",
+    "no_of_polling_centers": "548",
+    "registered_voters": 272409,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/38.json"
+  },
+  {
+    "code": "39",
+    "name": "BUNGOMA",
+    "no_of_polling_stations": "1186",
+    "no_of_polling_centers": "1186",
+    "registered_voters": 559850,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/39.json"
+  },
+  {
+    "code": "40",
+    "name": "BUSIA",
+    "no_of_polling_stations": "760",
+    "no_of_polling_centers": "760",
+    "registered_voters": 351048,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/40.json"
+  },
+  {
+    "code": "41",
+    "name": "SIAYA",
+    "no_of_polling_stations": "916",
+    "no_of_polling_centers": "916",
+    "registered_voters": 457953,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/41.json"
+  },
+  {
+    "code": "42",
+    "name": "KISUMU",
+    "no_of_polling_stations": "1027",
+    "no_of_polling_centers": "1027",
+    "registered_voters": 539210,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/42.json"
+  },
+  {
+    "code": "43",
+    "name": "HOMA BAY",
+    "no_of_polling_stations": "1062",
+    "no_of_polling_centers": "1062",
+    "registered_voters": 476875,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/43.json"
+  },
+  {
+    "code": "44",
+    "name": "MIGORI",
+    "no_of_polling_stations": "826",
+    "no_of_polling_centers": "826",
+    "registered_voters": 388633,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/44.json"
+  },
+  {
+    "code": "45",
+    "name": "KISII",
+    "no_of_polling_stations": "1126",
+    "no_of_polling_centers": "1126",
+    "registered_voters": 546580,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/45.json"
+  },
+  {
+    "code": "46",
+    "name": "NYAMIRA",
+    "no_of_polling_stations": "553",
+    "no_of_polling_centers": "553",
+    "registered_voters": 278853,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/46.json"
+  },
+  {
+    "code": "47",
+    "name": "NAIROBI CITY",
+    "no_of_polling_stations": "3378",
+    "no_of_polling_centers": "3378",
+    "registered_voters": 2250853,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/47.json"
+  },
+  {
+    "code": "NaN",
+    "name": "",
+    "no_of_polling_stations": "40770",
+    "no_of_polling_centers": "40770",
+    "registered_voters": 19601502,
+    "geopolygon":
+      "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/NaN.json"
+  }
+]
