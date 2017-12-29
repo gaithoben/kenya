@@ -7,6 +7,7 @@
   "scripts": {
     "commit": "git-cz",
     "test": "mocha src/index.test.js -w",
+    "test:single": "mocha src/index.test.js",
     "semantic-release": "semantic-release"
   },
   "repository": {
