@@ -1,15 +1,17 @@
 {
   "name": "kenya",
-  "version": "1.1.0",
+  "version": "0.0.0-development",
   "description":
     "A package with various components describing kenyan geography",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz",
+    "test": "mocha src/index.test.js -w",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gaithoben/kenya.git"
+    "url": "https://github.com/gaithoben/kenya.git"
   },
   "keywords": ["kenya", "counties", "constituencies", "wards"],
   "author":
@@ -21,5 +23,13 @@
   "homepage": "https://github.com/gaithoben/kenya#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "4.0.1",
+    "semantic-release": "^11.0.2"
+  },
+  "czConfig": {
+    "path": "cz-conventional-changelog"
   }
 }
