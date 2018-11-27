@@ -1,0 +1,3197 @@
+[
+  {
+    "_id": "30",
+    "code": "30",
+    "name": "BARINGO",
+    "center": {
+      "lat": 0.6717,
+      "lon": 35.945852
+    },
+    "constituencies": [
+      {
+        "code": "158",
+        "name": "BARINGO  NORTH",
+        "center": {
+          "lat": 0.753312,
+          "lon": 35.794812
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/158.json"
+      },
+      {
+        "code": "159",
+        "name": "BARINGO CENTRAL",
+        "center": {
+          "lat": 0.427763,
+          "lon": 35.748744
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/159.json"
+      },
+      {
+        "code": "160",
+        "name": "BARINGO SOUTH",
+        "center": {
+          "lat": 0.468455,
+          "lon": 36.063226
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/160.json"
+      },
+      {
+        "code": "162",
+        "name": "ELDAMA RAVINE",
+        "center": {
+          "lat": 0.021768,
+          "lon": 35.745561
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/162.json"
+      },
+      {
+        "code": "161",
+        "name": "MOGOTIO",
+        "center": {
+          "lat": 0.186067,
+          "lon": 35.9955
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/161.json"
+      },
+      {
+        "code": "157",
+        "name": "TIATY",
+        "center": {
+          "lat": 1.05144,
+          "lon": 36.018897
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/157.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/30.json"
+  },
+  {
+    "_id": "36",
+    "code": "36",
+    "name": "BOMET",
+    "center": {
+      "lat": -0.723839,
+      "lon": 35.297988
+    },
+    "constituencies": [
+      {
+        "code": "197",
+        "name": "BOMET CENTRAL",
+        "center": {
+          "lat": -0.721573,
+          "lon": 35.314474
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/197.json"
+      },
+      {
+        "code": "196",
+        "name": "BOMET EAST",
+        "center": {
+          "lat": -0.832325,
+          "lon": 35.418952
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/196.json"
+      },
+      {
+        "code": "195",
+        "name": "CHEPALUNGU",
+        "center": {
+          "lat": -0.896278,
+          "lon": 35.252002
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/195.json"
+      },
+      {
+        "code": "198",
+        "name": "KONOIN",
+        "center": {
+          "lat": -0.54169,
+          "lon": 35.373481
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/198.json"
+      },
+      {
+        "code": "194",
+        "name": "SOTIK",
+        "center": {
+          "lat": -0.755117,
+          "lon": 35.136646
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/194.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/36.json"
+  },
+  {
+    "_id": "39",
+    "code": "39",
+    "name": "BUNGOMA",
+    "center": {
+      "lat": 0.75174,
+      "lon": 34.639847
+    },
+    "constituencies": [
+      {
+        "code": "219",
+        "name": "BUMULA",
+        "center": {
+          "lat": 0.566062,
+          "lon": 34.456255
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/219.json"
+      },
+      {
+        "code": "218",
+        "name": "KABUCHAI",
+        "center": {
+          "lat": 0.692551,
+          "lon": 34.602713
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/218.json"
+      },
+      {
+        "code": "220",
+        "name": "KANDUYI",
+        "center": {
+          "lat": 0.55673,
+          "lon": 34.591743
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/220.json"
+      },
+      {
+        "code": "223",
+        "name": "KIMILILI",
+        "center": {
+          "lat": 0.785175,
+          "lon": 34.733495
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/223.json"
+      },
+      {
+        "code": "216",
+        "name": "MT. ELGON",
+        "center": {
+          "lat": 0.92717,
+          "lon": 34.596096
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/216.json"
+      },
+      {
+        "code": "217",
+        "name": "SIRISIA",
+        "center": {
+          "lat": 0.745145,
+          "lon": 34.471808
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/217.json"
+      },
+      {
+        "code": "224",
+        "name": "TONGAREN",
+        "center": {
+          "lat": 0.782765,
+          "lon": 34.927083
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/224.json"
+      },
+      {
+        "code": "221",
+        "name": "WEBUYE EAST",
+        "center": {
+          "lat": 0.660835,
+          "lon": 34.786017
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/221.json"
+      },
+      {
+        "code": "222",
+        "name": "WEBUYE WEST",
+        "center": {
+          "lat": 0.624864,
+          "lon": 34.702303
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/222.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/39.json"
+  },
+  {
+    "_id": "40",
+    "code": "40",
+    "name": "BUSIA",
+    "center": {
+      "lat": 0.389894,
+      "lon": 34.193014
+    },
+    "constituencies": [
+      {
+        "code": "231",
+        "name": "BUDALANGI",
+        "center": {
+          "lat": 0.07906,
+          "lon": 33.995693
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/231.json"
+      },
+      {
+        "code": "229",
+        "name": "BUTULA",
+        "center": {
+          "lat": 0.351619,
+          "lon": 34.29461
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/229.json"
+      },
+      {
+        "code": "230",
+        "name": "FUNYULA",
+        "center": {
+          "lat": 0.24753,
+          "lon": 34.077159
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/230.json"
+      },
+      {
+        "code": "228",
+        "name": "MATAYOS",
+        "center": {
+          "lat": 0.404977,
+          "lon": 34.167186
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/228.json"
+      },
+      {
+        "code": "227",
+        "name": "NAMBALE",
+        "center": {
+          "lat": 0.484942,
+          "lon": 34.313818
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/227.json"
+      },
+      {
+        "code": "225",
+        "name": "TESO NORTH",
+        "center": {
+          "lat": 0.680036,
+          "lon": 34.34132
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/225.json"
+      },
+      {
+        "code": "226",
+        "name": "TESO SOUTH",
+        "center": {
+          "lat": 0.541706,
+          "lon": 34.218339
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/226.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/40.json"
+  },
+  {
+    "_id": "48",
+    "code": "48",
+    "name": "DIASPORA",
+    "center": {
+      "lat": 0,
+      "lon": 0
+    },
+    "constituencies": [
+      {
+        "code": "291",
+        "name": "DIASPORA",
+        "center": {
+          "lat": 0,
+          "lon": 0
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/291.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/48.json"
+  },
+  {
+    "_id": "28",
+    "code": "28",
+    "name": "ELGEYO/MARAKWET",
+    "center": {
+      "lat": 0.804673,
+      "lon": 35.535949
+    },
+    "constituencies": [
+      {
+        "code": "149",
+        "name": "KEIYO NORTH",
+        "center": {
+          "lat": 0.708158,
+          "lon": 35.544158
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/149.json"
+      },
+      {
+        "code": "150",
+        "name": "KEIYO SOUTH",
+        "center": {
+          "lat": 0.357304,
+          "lon": 35.587459
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/150.json"
+      },
+      {
+        "code": "147",
+        "name": "MARAKWET EAST",
+        "center": {
+          "lat": 1.148781,
+          "lon": 35.576592
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/147.json"
+      },
+      {
+        "code": "148",
+        "name": "MARAKWET WEST",
+        "center": {
+          "lat": 1.019952,
+          "lon": 35.430545
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/148.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/28.json"
+  },
+  {
+    "_id": "14",
+    "code": "14",
+    "name": "EMBU",
+    "center": {
+      "lat": -0.601522,
+      "lon": 37.625887
+    },
+    "constituencies": [
+      {
+        "code": "063",
+        "name": "MANYATTA",
+        "center": {
+          "lat": -0.416462,
+          "lon": 37.459881
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/063.json"
+      },
+      {
+        "code": "066",
+        "name": "MBEERE NORTH",
+        "center": {
+          "lat": -0.539398,
+          "lon": 37.767574
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/066.json"
+      },
+      {
+        "code": "065",
+        "name": "MBEERE SOUTH",
+        "center": {
+          "lat": -0.743277,
+          "lon": 37.609371
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/065.json"
+      },
+      {
+        "code": "064",
+        "name": "RUNYENJES",
+        "center": {
+          "lat": -0.402893,
+          "lon": 37.561233
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/064.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/14.json"
+  },
+  {
+    "_id": "07",
+    "code": "07",
+    "name": "GARISSA",
+    "center": {
+      "lat": -0.486457,
+      "lon": 40.198663
+    },
+    "constituencies": [
+      {
+        "code": "028",
+        "name": "BALAMBALA",
+        "center": {
+          "lat": 0.066578,
+          "lon": 39.200724
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/028.json"
+      },
+      {
+        "code": "030",
+        "name": "DADAAB",
+        "center": {
+          "lat": 0.065733,
+          "lon": 40.372216
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/030.json"
+      },
+      {
+        "code": "031",
+        "name": "FAFI",
+        "center": {
+          "lat": -0.745956,
+          "lon": 40.407881
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/031.json"
+      },
+      {
+        "code": "027",
+        "name": "GARISSA TOWNSHIP",
+        "center": {
+          "lat": -0.246034,
+          "lon": 39.590128
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/027.json"
+      },
+      {
+        "code": "032",
+        "name": "IJARA",
+        "center": {
+          "lat": -1.519562,
+          "lon": 40.822011
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/032.json"
+      },
+      {
+        "code": "029",
+        "name": "LAGDERA",
+        "center": {
+          "lat": 0.493203,
+          "lon": 39.347251
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/029.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/07.json"
+  },
+  {
+    "_id": "43",
+    "code": "43",
+    "name": "HOMA BAY",
+    "center": {
+      "lat": -0.540355,
+      "lon": 34.358386
+    },
+    "constituencies": [
+      {
+        "code": "249",
+        "name": "HOMA BAY TOWN",
+        "center": {
+          "lat": -0.554185,
+          "lon": 34.475295
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/249.json"
+      },
+      {
+        "code": "246",
+        "name": "KABONDO KASIPUL",
+        "center": {
+          "lat": -0.440749,
+          "lon": 34.861699
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/246.json"
+      },
+      {
+        "code": "247",
+        "name": "KARACHUONYO",
+        "center": {
+          "lat": -0.362328,
+          "lon": 34.600892
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/247.json"
+      },
+      {
+        "code": "245",
+        "name": "KASIPUL",
+        "center": {
+          "lat": -0.499234,
+          "lon": 34.709609
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/245.json"
+      },
+      {
+        "code": "251",
+        "name": "MBITA",
+        "center": {
+          "lat": -0.457118,
+          "lon": 34.175793
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/251.json"
+      },
+      {
+        "code": "250",
+        "name": "NDHIWA",
+        "center": {
+          "lat": -0.731236,
+          "lon": 34.381385
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/250.json"
+      },
+      {
+        "code": "248",
+        "name": "RANGWE",
+        "center": {
+          "lat": -0.536376,
+          "lon": 34.568956
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/248.json"
+      },
+      {
+        "code": "252",
+        "name": "SUBA",
+        "center": {
+          "lat": -0.642825,
+          "lon": 34.093212
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/252.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/43.json"
+  },
+  {
+    "_id": "11",
+    "code": "11",
+    "name": "ISIOLO",
+    "center": {
+      "lat": 1.012898,
+      "lon": 38.541539
+    },
+    "constituencies": [
+      {
+        "code": "049",
+        "name": "ISIOLO NORTH",
+        "center": {
+          "lat": 1.263153,
+          "lon": 38.467186
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/049.json"
+      },
+      {
+        "code": "050",
+        "name": "ISIOLO SOUTH",
+        "center": {
+          "lat": 0.632392,
+          "lon": 38.654595
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/050.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/11.json"
+  },
+  {
+    "_id": "34",
+    "code": "34",
+    "name": "KAJIADO",
+    "center": {
+      "lat": -2.118928,
+      "lon": 36.908224
+    },
+    "constituencies": [
+      {
+        "code": "184",
+        "name": "KAJIADO CENTRAL",
+        "center": {
+          "lat": -2.19544,
+          "lon": 36.817489
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/184.json"
+      },
+      {
+        "code": "185",
+        "name": "KAJIADO EAST",
+        "center": {
+          "lat": -1.947427,
+          "lon": 37.189395
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/185.json"
+      },
+      {
+        "code": "183",
+        "name": "KAJIADO NORTH",
+        "center": {
+          "lat": -1.379194,
+          "lon": 36.680993
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/183.json"
+      },
+      {
+        "code": "187",
+        "name": "KAJIADO SOUTH",
+        "center": {
+          "lat": -2.656501,
+          "lon": 37.470133
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/187.json"
+      },
+      {
+        "code": "186",
+        "name": "KAJIADO WEST",
+        "center": {
+          "lat": -1.727718,
+          "lon": 36.388535
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/186.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/34.json"
+  },
+  {
+    "_id": "37",
+    "code": "37",
+    "name": "KAKAMEGA",
+    "center": {
+      "lat": 0.406141,
+      "lon": 34.7439
+    },
+    "constituencies": [
+      {
+        "code": "207",
+        "name": "BUTERE",
+        "center": {
+          "lat": 0.222388,
+          "lon": 34.523482
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/207.json"
+      },
+      {
+        "code": "210",
+        "name": "IKOLOMANI",
+        "center": {
+          "lat": 0.192293,
+          "lon": 34.70886
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/210.json"
+      },
+      {
+        "code": "208",
+        "name": "KHWISERO",
+        "center": {
+          "lat": 0.147899,
+          "lon": 34.582292
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/208.json"
+      },
+      {
+        "code": "200",
+        "name": "LIKUYANI",
+        "center": {
+          "lat": 0.763804,
+          "lon": 35.089894
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/200.json"
+      },
+      {
+        "code": "199",
+        "name": "LUGARI",
+        "center": {
+          "lat": 0.645995,
+          "lon": 34.91525
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/199.json"
+      },
+      {
+        "code": "202",
+        "name": "LURAMBI",
+        "center": {
+          "lat": 0.287159,
+          "lon": 34.702002
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/202.json"
+      },
+      {
+        "code": "201",
+        "name": "MALAVA",
+        "center": {
+          "lat": 0.451759,
+          "lon": 34.834448
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/201.json"
+      },
+      {
+        "code": "206",
+        "name": "MATUNGU",
+        "center": {
+          "lat": 0.407822,
+          "lon": 34.459772
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/206.json"
+      },
+      {
+        "code": "205",
+        "name": "MUMIAS EAST",
+        "center": {
+          "lat": 0.3297,
+          "lon": 34.56536
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/205.json"
+      },
+      {
+        "code": "204",
+        "name": "MUMIAS WEST",
+        "center": {
+          "lat": 0.275913,
+          "lon": 34.443505
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/204.json"
+      },
+      {
+        "code": "203",
+        "name": "NAVAKHOLO",
+        "center": {
+          "lat": 0.399803,
+          "lon": 34.673984
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/203.json"
+      },
+      {
+        "code": "209",
+        "name": "SHINYALU",
+        "center": {
+          "lat": 0.27348,
+          "lon": 34.857615
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/209.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/37.json"
+  },
+  {
+    "_id": "35",
+    "code": "35",
+    "name": "KERICHO",
+    "center": {
+      "lat": -0.293278,
+      "lon": 35.313456
+    },
+    "constituencies": [
+      {
+        "code": "190",
+        "name": "AINAMOI",
+        "center": {
+          "lat": -0.303028,
+          "lon": 35.276669
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/190.json"
+      },
+      {
+        "code": "192",
+        "name": "BELGUT",
+        "center": {
+          "lat": -0.410786,
+          "lon": 35.269715
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/192.json"
+      },
+      {
+        "code": "191",
+        "name": "BURETI",
+        "center": {
+          "lat": -0.562575,
+          "lon": 35.133333
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/191.json"
+      },
+      {
+        "code": "188",
+        "name": "KIPKELION EAST",
+        "center": {
+          "lat": -0.169302,
+          "lon": 35.513312
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/188.json"
+      },
+      {
+        "code": "189",
+        "name": "KIPKELION WEST",
+        "center": {
+          "lat": -0.148693,
+          "lon": 35.396737
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/189.json"
+      },
+      {
+        "code": "193",
+        "name": "SIGOWET/SOIN",
+        "center": {
+          "lat": -0.298796,
+          "lon": 35.113227
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/193.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/35.json"
+  },
+  {
+    "_id": "22",
+    "code": "22",
+    "name": "KIAMBU",
+    "center": {
+      "lat": -1.066267,
+      "lon": 36.822947
+    },
+    "constituencies": [
+      {
+        "code": "112",
+        "name": "GATUNDU NORTH",
+        "center": {
+          "lat": -0.906317,
+          "lon": 36.828785
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/112.json"
+      },
+      {
+        "code": "111",
+        "name": "GATUNDU SOUTH",
+        "center": {
+          "lat": -0.969705,
+          "lon": 36.823119
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/111.json"
+      },
+      {
+        "code": "116",
+        "name": "GITHUNGURI",
+        "center": {
+          "lat": -1.06763,
+          "lon": 36.794324
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/116.json"
+      },
+      {
+        "code": "113",
+        "name": "JUJA",
+        "center": {
+          "lat": -1.1099,
+          "lon": 37.032887
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/113.json"
+      },
+      {
+        "code": "119",
+        "name": "KABETE",
+        "center": {
+          "lat": -1.214928,
+          "lon": 36.698671
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/119.json"
+      },
+      {
+        "code": "118",
+        "name": "KIAMBAA",
+        "center": {
+          "lat": -1.162697,
+          "lon": 36.760164
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/118.json"
+      },
+      {
+        "code": "117",
+        "name": "KIAMBU",
+        "center": {
+          "lat": -1.157335,
+          "lon": 36.84106
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/117.json"
+      },
+      {
+        "code": "120",
+        "name": "KIKUYU",
+        "center": {
+          "lat": -1.24599,
+          "lon": 36.613059
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/120.json"
+      },
+      {
+        "code": "122",
+        "name": "LARI",
+        "center": {
+          "lat": -0.944371,
+          "lon": 36.666889
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/122.json"
+      },
+      {
+        "code": "121",
+        "name": "LIMURU",
+        "center": {
+          "lat": -1.141737,
+          "lon": 36.625372
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/121.json"
+      },
+      {
+        "code": "115",
+        "name": "RUIRU",
+        "center": {
+          "lat": -1.182458,
+          "lon": 37.002658
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/115.json"
+      },
+      {
+        "code": "114",
+        "name": "THIKA TOWN",
+        "center": {
+          "lat": -1.063414,
+          "lon": 37.162062
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/114.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/22.json"
+  },
+  {
+    "_id": "03",
+    "code": "03",
+    "name": "KILIFI",
+    "center": {
+      "lat": -3.172886,
+      "lon": 39.686064
+    },
+    "constituencies": [
+      {
+        "code": "015",
+        "name": "GANZE",
+        "center": {
+          "lat": -3.452556,
+          "lon": 39.510173
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/015.json"
+      },
+      {
+        "code": "013",
+        "name": "KALOLENI",
+        "center": {
+          "lat": -3.760289,
+          "lon": 39.525891
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/013.json"
+      },
+      {
+        "code": "011",
+        "name": "KILIFI NORTH",
+        "center": {
+          "lat": -3.461278,
+          "lon": 39.888612
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/011.json"
+      },
+      {
+        "code": "012",
+        "name": "KILIFI SOUTH",
+        "center": {
+          "lat": -3.802273,
+          "lon": 39.745179
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/012.json"
+      },
+      {
+        "code": "017",
+        "name": "MAGARINI",
+        "center": {
+          "lat": -2.899511,
+          "lon": 39.733068
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/017.json"
+      },
+      {
+        "code": "016",
+        "name": "MALINDI",
+        "center": {
+          "lat": -3.211497,
+          "lon": 39.913623
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/016.json"
+      },
+      {
+        "code": "014",
+        "name": "RABAI",
+        "center": {
+          "lat": -3.903915,
+          "lon": 39.606989
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/014.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/03.json"
+  },
+  {
+    "_id": "20",
+    "code": "20",
+    "name": "KIRINYAGA",
+    "center": {
+      "lat": -0.522295,
+      "lon": 37.319254
+    },
+    "constituencies": [
+      {
+        "code": "101",
+        "name": "GICHUGU",
+        "center": {
+          "lat": -0.398251,
+          "lon": 37.347911
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/101.json"
+      },
+      {
+        "code": "103",
+        "name": "KIRINYAGA CENTRAL",
+        "center": {
+          "lat": -0.437115,
+          "lon": 37.267994
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/103.json"
+      },
+      {
+        "code": "100",
+        "name": "MWEA",
+        "center": {
+          "lat": -0.656531,
+          "lon": 37.366302
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/100.json"
+      },
+      {
+        "code": "102",
+        "name": "NDIA",
+        "center": {
+          "lat": -0.544368,
+          "lon": 37.206223
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/102.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/20.json"
+  },
+  {
+    "_id": "45",
+    "code": "45",
+    "name": "KISII",
+    "center": {
+      "lat": -0.772149,
+      "lon": 34.774106
+    },
+    "constituencies": [
+      {
+        "code": "264",
+        "name": "BOBASI",
+        "center": {
+          "lat": -0.830699,
+          "lon": 34.808539
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/264.json"
+      },
+      {
+        "code": "263",
+        "name": "BOMACHOGE BORABU",
+        "center": {
+          "lat": -0.910306,
+          "lon": 34.754751
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/263.json"
+      },
+      {
+        "code": "265",
+        "name": "BOMACHOGE CHACHE",
+        "center": {
+          "lat": -0.810179,
+          "lon": 34.709283
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/265.json"
+      },
+      {
+        "code": "261",
+        "name": "BONCHARI",
+        "center": {
+          "lat": -0.664599,
+          "lon": 34.689852
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/261.json"
+      },
+      {
+        "code": "268",
+        "name": "KITUTU CHACHE NORTH",
+        "center": {
+          "lat": -0.56467,
+          "lon": 34.820016
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/268.json"
+      },
+      {
+        "code": "269",
+        "name": "KITUTU CHACHE SOUTH",
+        "center": {
+          "lat": -0.618229,
+          "lon": 34.753904
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/269.json"
+      },
+      {
+        "code": "267",
+        "name": "NYARIBARI CHACHE",
+        "center": {
+          "lat": -0.739093,
+          "lon": 34.822799
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/267.json"
+      },
+      {
+        "code": "266",
+        "name": "NYARIBARI MASABA",
+        "center": {
+          "lat": -0.838924,
+          "lon": 34.931741
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/266.json"
+      },
+      {
+        "code": "262",
+        "name": "SOUTH MUGIRANGO",
+        "center": {
+          "lat": -0.849868,
+          "lon": 34.656079
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/262.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/45.json"
+  },
+  {
+    "_id": "42",
+    "code": "42",
+    "name": "KISUMU",
+    "center": {
+      "lat": -0.167005,
+      "lon": 34.834589
+    },
+    "constituencies": [
+      {
+        "code": "240",
+        "name": "KISUMU CENTRAL",
+        "center": {
+          "lat": -0.115682,
+          "lon": 34.741149
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/240.json"
+      },
+      {
+        "code": "238",
+        "name": "KISUMU EAST",
+        "center": {
+          "lat": -0.106159,
+          "lon": 34.793786
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/238.json"
+      },
+      {
+        "code": "239",
+        "name": "KISUMU WEST",
+        "center": {
+          "lat": -0.089224,
+          "lon": 34.654886
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/239.json"
+      },
+      {
+        "code": "243",
+        "name": "MUHORONI",
+        "center": {
+          "lat": -0.105183,
+          "lon": 35.080538
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/243.json"
+      },
+      {
+        "code": "244",
+        "name": "NYAKACH",
+        "center": {
+          "lat": -0.321534,
+          "lon": 34.906165
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/244.json"
+      },
+      {
+        "code": "242",
+        "name": "NYANDO",
+        "center": {
+          "lat": -0.210135,
+          "lon": 34.867001
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/242.json"
+      },
+      {
+        "code": "241",
+        "name": "SEME",
+        "center": {
+          "lat": -0.14663,
+          "lon": 34.517169
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/241.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/42.json"
+  },
+  {
+    "_id": "15",
+    "code": "15",
+    "name": "KITUI",
+    "center": {
+      "lat": -1.488585,
+      "lon": 38.406306
+    },
+    "constituencies": [
+      {
+        "code": "072",
+        "name": "KITUI CENTRAL",
+        "center": {
+          "lat": -1.372788,
+          "lon": 38.012552
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/072.json"
+      },
+      {
+        "code": "073",
+        "name": "KITUI EAST",
+        "center": {
+          "lat": -1.370375,
+          "lon": 38.506011
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/073.json"
+      },
+      {
+        "code": "071",
+        "name": "KITUI RURAL",
+        "center": {
+          "lat": -1.512518,
+          "lon": 37.870447
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/071.json"
+      },
+      {
+        "code": "074",
+        "name": "KITUI SOUTH",
+        "center": {
+          "lat": -2.165271,
+          "lon": 38.540681
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/074.json"
+      },
+      {
+        "code": "070",
+        "name": "KITUI WEST",
+        "center": {
+          "lat": -1.23196,
+          "lon": 37.907896
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/070.json"
+      },
+      {
+        "code": "069",
+        "name": "MWINGI CENTRAL",
+        "center": {
+          "lat": -0.922549,
+          "lon": 38.451607
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/069.json"
+      },
+      {
+        "code": "067",
+        "name": "MWINGI NORTH",
+        "center": {
+          "lat": -0.461391,
+          "lon": 38.299293
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/067.json"
+      },
+      {
+        "code": "068",
+        "name": "MWINGI WEST",
+        "center": {
+          "lat": -0.980454,
+          "lon": 37.96868
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/068.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/15.json"
+  },
+  {
+    "_id": "02",
+    "code": "02",
+    "name": "KWALE",
+    "center": {
+      "lat": -4.18069,
+      "lon": 39.189782
+    },
+    "constituencies": [
+      {
+        "code": "010",
+        "name": "KINANGO",
+        "center": {
+          "lat": -3.979582,
+          "lon": 39.104945
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/010.json"
+      },
+      {
+        "code": "008",
+        "name": "LUNGALUNGA",
+        "center": {
+          "lat": -4.46147,
+          "lon": 39.109774
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/008.json"
+      },
+      {
+        "code": "009",
+        "name": "MATUGA",
+        "center": {
+          "lat": -4.244685,
+          "lon": 39.433834
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/009.json"
+      },
+      {
+        "code": "007",
+        "name": "MSAMBWENI",
+        "center": {
+          "lat": -4.435073,
+          "lon": 39.512627
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/007.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/02.json"
+  },
+  {
+    "_id": "31",
+    "code": "31",
+    "name": "LAIKIPIA",
+    "center": {
+      "lat": 0.326057,
+      "lon": 36.771121
+    },
+    "constituencies": [
+      {
+        "code": "164",
+        "name": "LAIKIPIA EAST",
+        "center": {
+          "lat": -0.04726,
+          "lon": 36.838801
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/164.json"
+      },
+      {
+        "code": "165",
+        "name": "LAIKIPIA NORTH",
+        "center": {
+          "lat": 0.424539,
+          "lon": 36.906235
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/165.json"
+      },
+      {
+        "code": "163",
+        "name": "LAIKIPIA WEST",
+        "center": {
+          "lat": 0.325806,
+          "lon": 36.484102
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/163.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/31.json"
+  },
+  {
+    "_id": "05",
+    "code": "05",
+    "name": "LAMU",
+    "center": {
+      "lat": -2.076227,
+      "lon": 40.882258
+    },
+    "constituencies": [
+      {
+        "code": "021",
+        "name": "LAMU EAST",
+        "center": {
+          "lat": -1.932898,
+          "lon": 41.165318
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/021.json"
+      },
+      {
+        "code": "022",
+        "name": "LAMU WEST",
+        "center": {
+          "lat": -2.200167,
+          "lon": 40.637439
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/022.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/05.json"
+  },
+  {
+    "_id": "16",
+    "code": "16",
+    "name": "MACHAKOS",
+    "center": {
+      "lat": -1.277062,
+      "lon": 37.412018
+    },
+    "constituencies": [
+      {
+        "code": "077",
+        "name": "KANGUNDO",
+        "center": {
+          "lat": -1.339133,
+          "lon": 37.358118
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/077.json"
+      },
+      {
+        "code": "079",
+        "name": "KATHIANI",
+        "center": {
+          "lat": -1.415353,
+          "lon": 37.298091
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/079.json"
+      },
+      {
+        "code": "081",
+        "name": "MACHAKOS TOWN",
+        "center": {
+          "lat": -1.586935,
+          "lon": 37.225445
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/081.json"
+      },
+      {
+        "code": "075",
+        "name": "MASINGA",
+        "center": {
+          "lat": -0.944949,
+          "lon": 37.606999
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/075.json"
+      },
+      {
+        "code": "078",
+        "name": "MATUNGULU",
+        "center": {
+          "lat": -1.207515,
+          "lon": 37.248432
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/078.json"
+      },
+      {
+        "code": "080",
+        "name": "MAVOKO",
+        "center": {
+          "lat": -1.435794,
+          "lon": 37.058744
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/080.json"
+      },
+      {
+        "code": "082",
+        "name": "MWALA",
+        "center": {
+          "lat": -1.418234,
+          "lon": 37.524461
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/082.json"
+      },
+      {
+        "code": "076",
+        "name": "YATTA",
+        "center": {
+          "lat": -1.23503,
+          "lon": 37.580471
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/076.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/16.json"
+  },
+  {
+    "_id": "17",
+    "code": "17",
+    "name": "MAKUENI",
+    "center": {
+      "lat": -2.155226,
+      "lon": 37.787627
+    },
+    "constituencies": [
+      {
+        "code": "085",
+        "name": "KAITI",
+        "center": {
+          "lat": -1.772546,
+          "lon": 37.438375
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/085.json"
+      },
+      {
+        "code": "088",
+        "name": "KIBWEZI EAST",
+        "center": {
+          "lat": -2.607874,
+          "lon": 38.145065
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/088.json"
+      },
+      {
+        "code": "087",
+        "name": "KIBWEZI WEST",
+        "center": {
+          "lat": -2.253424,
+          "lon": 37.804137
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/087.json"
+      },
+      {
+        "code": "084",
+        "name": "KILOME",
+        "center": {
+          "lat": -1.845378,
+          "lon": 37.284105
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/084.json"
+      },
+      {
+        "code": "086",
+        "name": "MAKUENI",
+        "center": {
+          "lat": -1.929547,
+          "lon": 37.711208
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/086.json"
+      },
+      {
+        "code": "083",
+        "name": "MBOONI",
+        "center": {
+          "lat": -1.65194,
+          "lon": 37.596311
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/083.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/17.json"
+  },
+  {
+    "_id": "09",
+    "code": "09",
+    "name": "MANDERA",
+    "center": {
+      "lat": 3.438921,
+      "lon": 40.738195
+    },
+    "constituencies": [
+      {
+        "code": "040",
+        "name": "BANISSA",
+        "center": {
+          "lat": 3.996367,
+          "lon": 40.507561
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/040.json"
+      },
+      {
+        "code": "044",
+        "name": "LAFEY",
+        "center": {
+          "lat": 3.505552,
+          "lon": 41.247341
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/044.json"
+      },
+      {
+        "code": "043",
+        "name": "MANDERA EAST",
+        "center": {
+          "lat": 3.703792,
+          "lon": 41.609367
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/043.json"
+      },
+      {
+        "code": "041",
+        "name": "MANDERA NORTH",
+        "center": {
+          "lat": 3.649411,
+          "lon": 40.741742
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/041.json"
+      },
+      {
+        "code": "042",
+        "name": "MANDERA SOUTH",
+        "center": {
+          "lat": 2.80022,
+          "lon": 40.775923
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/042.json"
+      },
+      {
+        "code": "039",
+        "name": "MANDERA WEST",
+        "center": {
+          "lat": 3.427223,
+          "lon": 40.147269
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/039.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/09.json"
+  },
+  {
+    "_id": "10",
+    "code": "10",
+    "name": "MARSABIT",
+    "center": {
+      "lat": 2.981109,
+      "lon": 37.568928
+    },
+    "constituencies": [
+      {
+        "code": "048",
+        "name": "LAISAMIS",
+        "center": {
+          "lat": 2.300183,
+          "lon": 37.360602
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/048.json"
+      },
+      {
+        "code": "045",
+        "name": "MOYALE",
+        "center": {
+          "lat": 3.141445,
+          "lon": 38.823207
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/045.json"
+      },
+      {
+        "code": "046",
+        "name": "NORTH HORR",
+        "center": {
+          "lat": 3.380498,
+          "lon": 37.384694
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/046.json"
+      },
+      {
+        "code": "047",
+        "name": "SAKU",
+        "center": {
+          "lat": 2.336309,
+          "lon": 37.94773
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/047.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/10.json"
+  },
+  {
+    "_id": "12",
+    "code": "12",
+    "name": "MERU",
+    "center": {
+      "lat": 0.169236,
+      "lon": 37.763423
+    },
+    "constituencies": [
+      {
+        "code": "057",
+        "name": "BUURI",
+        "center": {
+          "lat": 0.087303,
+          "lon": 37.397816
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/057.json"
+      },
+      {
+        "code": "058",
+        "name": "CENTRAL IMENTI",
+        "center": {
+          "lat": -0.040134,
+          "lon": 37.682817
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/058.json"
+      },
+      {
+        "code": "052",
+        "name": "IGEMBE CENTRAL",
+        "center": {
+          "lat": 0.30244,
+          "lon": 37.996523
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/052.json"
+      },
+      {
+        "code": "053",
+        "name": "IGEMBE NORTH",
+        "center": {
+          "lat": 0.466679,
+          "lon": 37.98788
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/053.json"
+      },
+      {
+        "code": "051",
+        "name": "IGEMBE SOUTH",
+        "center": {
+          "lat": 0.09489,
+          "lon": 38.142364
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/051.json"
+      },
+      {
+        "code": "056",
+        "name": "NORTH IMENTI",
+        "center": {
+          "lat": 0.057105,
+          "lon": 37.716176
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/056.json"
+      },
+      {
+        "code": "059",
+        "name": "SOUTH IMENTI",
+        "center": {
+          "lat": -0.123592,
+          "lon": 37.608018
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/059.json"
+      },
+      {
+        "code": "055",
+        "name": "TIGANIA EAST",
+        "center": {
+          "lat": 0.278907,
+          "lon": 37.770745
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/055.json"
+      },
+      {
+        "code": "054",
+        "name": "TIGANIA WEST",
+        "center": {
+          "lat": 0.189477,
+          "lon": 37.720838
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/054.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/12.json"
+  },
+  {
+    "_id": "44",
+    "code": "44",
+    "name": "MIGORI",
+    "center": {
+      "lat": -0.987079,
+      "lon": 34.362727
+    },
+    "constituencies": [
+      {
+        "code": "254",
+        "name": "AWENDO",
+        "center": {
+          "lat": -0.869636,
+          "lon": 34.541918
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/254.json"
+      },
+      {
+        "code": "260",
+        "name": "KURIA EAST",
+        "center": {
+          "lat": -1.274629,
+          "lon": 34.63659
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/260.json"
+      },
+      {
+        "code": "259",
+        "name": "KURIA WEST",
+        "center": {
+          "lat": -1.174257,
+          "lon": 34.515115
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/259.json"
+      },
+      {
+        "code": "258",
+        "name": "NYATIKE",
+        "center": {
+          "lat": -0.920507,
+          "lon": 34.139644
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/258.json"
+      },
+      {
+        "code": "253",
+        "name": "RONGO",
+        "center": {
+          "lat": -0.773278,
+          "lon": 34.59531
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/253.json"
+      },
+      {
+        "code": "255",
+        "name": "SUNA EAST",
+        "center": {
+          "lat": -1.054182,
+          "lon": 34.487311
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/255.json"
+      },
+      {
+        "code": "256",
+        "name": "SUNA WEST",
+        "center": {
+          "lat": -1.089822,
+          "lon": 34.359202
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/256.json"
+      },
+      {
+        "code": "257",
+        "name": "URIRI",
+        "center": {
+          "lat": -0.939796,
+          "lon": 34.448218
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/257.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/44.json"
+  },
+  {
+    "_id": "01",
+    "code": "01",
+    "name": "MOMBASA",
+    "center": {
+      "lat": -4.018804,
+      "lon": 39.650008
+    },
+    "constituencies": [
+      {
+        "code": "001",
+        "name": "CHANGAMWE",
+        "center": {
+          "lat": -4.026797,
+          "lon": 39.614571
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/001.json"
+      },
+      {
+        "code": "002",
+        "name": "JOMVU",
+        "center": {
+          "lat": -3.996042,
+          "lon": 39.604102
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/002.json"
+      },
+      {
+        "code": "003",
+        "name": "KISAUNI",
+        "center": {
+          "lat": -3.971323,
+          "lon": 39.68524
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/003.json"
+      },
+      {
+        "code": "005",
+        "name": "LIKONI",
+        "center": {
+          "lat": -4.094062,
+          "lon": 39.633005
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/005.json"
+      },
+      {
+        "code": "006",
+        "name": "MVITA",
+        "center": {
+          "lat": -4.051462,
+          "lon": 39.661376
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/006.json"
+      },
+      {
+        "code": "004",
+        "name": "NYALI",
+        "center": {
+          "lat": -4.030199,
+          "lon": 39.703432
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/004.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/01.json"
+  },
+  {
+    "_id": "21",
+    "code": "21",
+    "name": "MURANG'A",
+    "center": {
+      "lat": -0.807137,
+      "lon": 37.032107
+    },
+    "constituencies": [
+      {
+        "code": "110",
+        "name": "GATANGA",
+        "center": {
+          "lat": -0.940489,
+          "lon": 37.069444
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/110.json"
+      },
+      {
+        "code": "109",
+        "name": "KANDARA",
+        "center": {
+          "lat": -0.884943,
+          "lon": 37.017316
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/109.json"
+      },
+      {
+        "code": "104",
+        "name": "KANGEMA",
+        "center": {
+          "lat": -0.671766,
+          "lon": 36.865348
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/104.json"
+      },
+      {
+        "code": "107",
+        "name": "KIGUMO",
+        "center": {
+          "lat": -0.789344,
+          "lon": 36.923705
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/107.json"
+      },
+      {
+        "code": "106",
+        "name": "KIHARU",
+        "center": {
+          "lat": -0.714644,
+          "lon": 37.088281
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/106.json"
+      },
+      {
+        "code": "108",
+        "name": "MARAGWA",
+        "center": {
+          "lat": -0.872034,
+          "lon": 37.180444
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/108.json"
+      },
+      {
+        "code": "105",
+        "name": "MATHIOYA",
+        "center": {
+          "lat": -0.617435,
+          "lon": 36.909854
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/105.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/21.json"
+  },
+  {
+    "_id": "47",
+    "code": "47",
+    "name": "NAIROBI CITY",
+    "center": {
+      "lat": -1.290909,
+      "lon": 36.867507
+    },
+    "constituencies": [
+      {
+        "code": "275",
+        "name": "DAGORETTI NORTH",
+        "center": {
+          "lat": -1.278738,
+          "lon": 36.780121
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/275.json"
+      },
+      {
+        "code": "276",
+        "name": "DAGORETTI SOUTH",
+        "center": {
+          "lat": -1.282524,
+          "lon": 36.715569
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/276.json"
+      },
+      {
+        "code": "284",
+        "name": "EMBAKASI CENTRAL",
+        "center": {
+          "lat": -1.268431,
+          "lon": 36.921099
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/284.json"
+      },
+      {
+        "code": "285",
+        "name": "EMBAKASI EAST",
+        "center": {
+          "lat": -1.306139,
+          "lon": 36.93679
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/285.json"
+      },
+      {
+        "code": "283",
+        "name": "EMBAKASI NORTH",
+        "center": {
+          "lat": -1.247138,
+          "lon": 36.897499
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/283.json"
+      },
+      {
+        "code": "282",
+        "name": "EMBAKASI SOUTH",
+        "center": {
+          "lat": -1.329057,
+          "lon": 36.877524
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/282.json"
+      },
+      {
+        "code": "286",
+        "name": "EMBAKASI WEST",
+        "center": {
+          "lat": -1.268856,
+          "lon": 36.897762
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/286.json"
+      },
+      {
+        "code": "288",
+        "name": "KAMUKUNJI",
+        "center": {
+          "lat": -1.275406,
+          "lon": 36.858819
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/288.json"
+      },
+      {
+        "code": "280",
+        "name": "KASARANI",
+        "center": {
+          "lat": -1.249391,
+          "lon": 37.008274
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/280.json"
+      },
+      {
+        "code": "278",
+        "name": "KIBRA",
+        "center": {
+          "lat": -1.304002,
+          "lon": 36.788108
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/278.json"
+      },
+      {
+        "code": "277",
+        "name": "LANGATA",
+        "center": {
+          "lat": -1.354486,
+          "lon": 36.804654
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/277.json"
+      },
+      {
+        "code": "287",
+        "name": "MAKADARA",
+        "center": {
+          "lat": -1.29602,
+          "lon": 36.86865
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/287.json"
+      },
+      {
+        "code": "290",
+        "name": "MATHARE",
+        "center": {
+          "lat": -1.258112,
+          "lon": 36.860583
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/290.json"
+      },
+      {
+        "code": "279",
+        "name": "ROYSAMBU",
+        "center": {
+          "lat": -1.202966,
+          "lon": 36.883707
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/279.json"
+      },
+      {
+        "code": "281",
+        "name": "RUARAKA",
+        "center": {
+          "lat": -1.244053,
+          "lon": 36.879083
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/281.json"
+      },
+      {
+        "code": "289",
+        "name": "STAREHE",
+        "center": {
+          "lat": -1.290292,
+          "lon": 36.834684
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/289.json"
+      },
+      {
+        "code": "274",
+        "name": "WESTLANDS",
+        "center": {
+          "lat": -1.238456,
+          "lon": 36.788294
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/274.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/47.json"
+  },
+  {
+    "_id": "32",
+    "code": "32",
+    "name": "NAKURU",
+    "center": {
+      "lat": -0.461222,
+      "lon": 36.077847
+    },
+    "constituencies": [
+      {
+        "code": "174",
+        "name": "BAHATI",
+        "center": {
+          "lat": -0.209806,
+          "lon": 36.127899
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/174.json"
+      },
+      {
+        "code": "169",
+        "name": "GILGIL",
+        "center": {
+          "lat": -0.536075,
+          "lon": 36.259638
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/169.json"
+      },
+      {
+        "code": "171",
+        "name": "KURESOI NORTH",
+        "center": {
+          "lat": -0.290784,
+          "lon": 35.600326
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/171.json"
+      },
+      {
+        "code": "170",
+        "name": "KURESOI SOUTH",
+        "center": {
+          "lat": -0.51627,
+          "lon": 35.636385
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/170.json"
+      },
+      {
+        "code": "166",
+        "name": "MOLO",
+        "center": {
+          "lat": -0.340007,
+          "lon": 35.781145
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/166.json"
+      },
+      {
+        "code": "168",
+        "name": "NAIVASHA",
+        "center": {
+          "lat": -0.868002,
+          "lon": 36.392502
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/168.json"
+      },
+      {
+        "code": "176",
+        "name": "NAKURU TOWN EAST",
+        "center": {
+          "lat": -0.356848,
+          "lon": 36.114055
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/176.json"
+      },
+      {
+        "code": "175",
+        "name": "NAKURU TOWN WEST",
+        "center": {
+          "lat": -0.355481,
+          "lon": 36.056874
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/175.json"
+      },
+      {
+        "code": "167",
+        "name": "NJORO",
+        "center": {
+          "lat": -0.487235,
+          "lon": 35.966922
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/167.json"
+      },
+      {
+        "code": "173",
+        "name": "RONGAI",
+        "center": {
+          "lat": -0.092306,
+          "lon": 35.994048
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/173.json"
+      },
+      {
+        "code": "172",
+        "name": "SUBUKIA",
+        "center": {
+          "lat": -0.011611,
+          "lon": 36.18573
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/172.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/32.json"
+  },
+  {
+    "_id": "29",
+    "code": "29",
+    "name": "NANDI",
+    "center": {
+      "lat": 0.189143,
+      "lon": 35.109878
+    },
+    "constituencies": [
+      {
+        "code": "152",
+        "name": "ALDAI",
+        "center": {
+          "lat": 0.048994,
+          "lon": 34.959025
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/152.json"
+      },
+      {
+        "code": "154",
+        "name": "CHESUMEI",
+        "center": {
+          "lat": 0.283948,
+          "lon": 35.091244
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/154.json"
+      },
+      {
+        "code": "155",
+        "name": "EMGWEN",
+        "center": {
+          "lat": 0.186586,
+          "lon": 35.093338
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/155.json"
+      },
+      {
+        "code": "156",
+        "name": "MOSOP",
+        "center": {
+          "lat": 0.454411,
+          "lon": 35.02995
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/156.json"
+      },
+      {
+        "code": "153",
+        "name": "NANDI HILLS",
+        "center": {
+          "lat": 0.127703,
+          "lon": 35.265431
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/153.json"
+      },
+      {
+        "code": "151",
+        "name": "TINDERET",
+        "center": {
+          "lat": -0.006737,
+          "lon": 35.241361
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/151.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/29.json"
+  },
+  {
+    "_id": "33",
+    "code": "33",
+    "name": "NAROK",
+    "center": {
+      "lat": -1.252328,
+      "lon": 35.575712
+    },
+    "constituencies": [
+      {
+        "code": "178",
+        "name": "EMURUA DIKIRR",
+        "center": {
+          "lat": -0.986714,
+          "lon": 35.080385
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/178.json"
+      },
+      {
+        "code": "177",
+        "name": "KILGORIS",
+        "center": {
+          "lat": -1.179114,
+          "lon": 34.877529
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/177.json"
+      },
+      {
+        "code": "180",
+        "name": "NAROK EAST",
+        "center": {
+          "lat": -1.129034,
+          "lon": 36.119147
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/180.json"
+      },
+      {
+        "code": "179",
+        "name": "NAROK NORTH",
+        "center": {
+          "lat": -0.815994,
+          "lon": 35.859101
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/179.json"
+      },
+      {
+        "code": "181",
+        "name": "NAROK SOUTH",
+        "center": {
+          "lat": -1.449976,
+          "lon": 35.792043
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/181.json"
+      },
+      {
+        "code": "182",
+        "name": "NAROK WEST",
+        "center": {
+          "lat": -1.388095,
+          "lon": 35.3847
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/182.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/33.json"
+  },
+  {
+    "_id": "46",
+    "code": "46",
+    "name": "NYAMIRA",
+    "center": {
+      "lat": -0.64027,
+      "lon": 34.964044
+    },
+    "constituencies": [
+      {
+        "code": "273",
+        "name": "BORABU",
+        "center": {
+          "lat": -0.713771,
+          "lon": 35.021785
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/273.json"
+      },
+      {
+        "code": "270",
+        "name": "KITUTU MASABA",
+        "center": {
+          "lat": -0.688534,
+          "lon": 34.902158
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/270.json"
+      },
+      {
+        "code": "272",
+        "name": "NORTH MUGIRANGO",
+        "center": {
+          "lat": -0.501335,
+          "lon": 34.992797
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/272.json"
+      },
+      {
+        "code": "271",
+        "name": "WEST MUGIRANGO",
+        "center": {
+          "lat": -0.583596,
+          "lon": 34.929636
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/271.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/46.json"
+  },
+  {
+    "_id": "18",
+    "code": "18",
+    "name": "NYANDARUA",
+    "center": {
+      "lat": -0.319613,
+      "lon": 36.482261
+    },
+    "constituencies": [
+      {
+        "code": "089",
+        "name": "KINANGOP",
+        "center": {
+          "lat": -0.644002,
+          "lon": 36.59227
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/089.json"
+      },
+      {
+        "code": "090",
+        "name": "KIPIPIRI",
+        "center": {
+          "lat": -0.381661,
+          "lon": 36.506798
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/090.json"
+      },
+      {
+        "code": "093",
+        "name": "NDARAGWA",
+        "center": {
+          "lat": -0.089288,
+          "lon": 36.529088
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/093.json"
+      },
+      {
+        "code": "092",
+        "name": "OL JOROK",
+        "center": {
+          "lat": -0.090737,
+          "lon": 36.333187
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/092.json"
+      },
+      {
+        "code": "091",
+        "name": "OL KALOU",
+        "center": {
+          "lat": -0.276695,
+          "lon": 36.334159
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/091.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/18.json"
+  },
+  {
+    "_id": "19",
+    "code": "19",
+    "name": "NYERI",
+    "center": {
+      "lat": -0.34047,
+      "lon": 36.955864
+    },
+    "constituencies": [
+      {
+        "code": "095",
+        "name": "KIENI",
+        "center": {
+          "lat": -0.234491,
+          "lon": 36.94278
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/095.json"
+      },
+      {
+        "code": "096",
+        "name": "MATHIRA",
+        "center": {
+          "lat": -0.390103,
+          "lon": 37.147981
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/096.json"
+      },
+      {
+        "code": "098",
+        "name": "MUKURWEINI",
+        "center": {
+          "lat": -0.575801,
+          "lon": 37.083069
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/098.json"
+      },
+      {
+        "code": "099",
+        "name": "NYERI TOWN",
+        "center": {
+          "lat": -0.418848,
+          "lon": 36.966874
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/099.json"
+      },
+      {
+        "code": "097",
+        "name": "OTHAYA",
+        "center": {
+          "lat": -0.543337,
+          "lon": 36.832511
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/097.json"
+      },
+      {
+        "code": "094",
+        "name": "TETU",
+        "center": {
+          "lat": -0.457566,
+          "lon": 36.830012
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/094.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/19.json"
+  },
+  {
+    "_id": "25",
+    "code": "25",
+    "name": "SAMBURU",
+    "center": {
+      "lat": 1.319312,
+      "lon": 37.117774
+    },
+    "constituencies": [
+      {
+        "code": "135",
+        "name": "SAMBURU EAST",
+        "center": {
+          "lat": 1.081354,
+          "lon": 37.476659
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/135.json"
+      },
+      {
+        "code": "134",
+        "name": "SAMBURU NORTH",
+        "center": {
+          "lat": 1.682815,
+          "lon": 36.832172
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/134.json"
+      },
+      {
+        "code": "133",
+        "name": "SAMBURU WEST",
+        "center": {
+          "lat": 1.040719,
+          "lon": 36.638139
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/133.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/25.json"
+  },
+  {
+    "_id": "41",
+    "code": "41",
+    "name": "SIAYA",
+    "center": {
+      "lat": -0.059673,
+      "lon": 34.247028
+    },
+    "constituencies": [
+      {
+        "code": "234",
+        "name": "ALEGO USONGA",
+        "center": {
+          "lat": 0.064157,
+          "lon": 34.232099
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/234.json"
+      },
+      {
+        "code": "236",
+        "name": "BONDO",
+        "center": {
+          "lat": -0.161981,
+          "lon": 34.127597
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/236.json"
+      },
+      {
+        "code": "235",
+        "name": "GEM",
+        "center": {
+          "lat": 0.048855,
+          "lon": 34.452667
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/235.json"
+      },
+      {
+        "code": "237",
+        "name": "RARIEDA",
+        "center": {
+          "lat": -0.251341,
+          "lon": 34.351802
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/237.json"
+      },
+      {
+        "code": "232",
+        "name": "UGENYA",
+        "center": {
+          "lat": 0.238977,
+          "lon": 34.225533
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/232.json"
+      },
+      {
+        "code": "233",
+        "name": "UGUNJA",
+        "center": {
+          "lat": 0.194415,
+          "lon": 34.334598
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/233.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/41.json"
+  },
+  {
+    "_id": "06",
+    "code": "06",
+    "name": "TAITA TAVETA",
+    "center": {
+      "lat": -3.432282,
+      "lon": 38.417981
+    },
+    "constituencies": [
+      {
+        "code": "025",
+        "name": "MWATATE",
+        "center": {
+          "lat": -3.719163,
+          "lon": 38.338262
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/025.json"
+      },
+      {
+        "code": "023",
+        "name": "TAVETA",
+        "center": {
+          "lat": -3.424988,
+          "lon": 37.958992
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/023.json"
+      },
+      {
+        "code": "026",
+        "name": "VOI",
+        "center": {
+          "lat": -3.363431,
+          "lon": 38.64822
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/026.json"
+      },
+      {
+        "code": "024",
+        "name": "WUNDANYI",
+        "center": {
+          "lat": -3.284727,
+          "lon": 38.282546
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/024.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/06.json"
+  },
+  {
+    "_id": "04",
+    "code": "04",
+    "name": "TANA RIVER",
+    "center": {
+      "lat": -1.52392,
+      "lon": 39.417254
+    },
+    "constituencies": [
+      {
+        "code": "020",
+        "name": "BURA",
+        "center": {
+          "lat": -0.597591,
+          "lon": 39.247662
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/020.json"
+      },
+      {
+        "code": "019",
+        "name": "GALOLE",
+        "center": {
+          "lat": -1.492638,
+          "lon": 39.502345
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/019.json"
+      },
+      {
+        "code": "018",
+        "name": "GARSEN",
+        "center": {
+          "lat": -2.33553,
+          "lon": 39.510143
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/018.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/04.json"
+  },
+  {
+    "_id": "13",
+    "code": "13",
+    "name": "THARAKA - NITHI",
+    "center": {
+      "lat": -0.204605,
+      "lon": 37.869684
+    },
+    "constituencies": [
+      {
+        "code": "061",
+        "name": "CHUKA/IGAMBANG'OMBE",
+        "center": {
+          "lat": -0.337467,
+          "lon": 37.672188
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/061.json"
+      },
+      {
+        "code": "060",
+        "name": "MAARA",
+        "center": {
+          "lat": -0.23359,
+          "lon": 37.631279
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/060.json"
+      },
+      {
+        "code": "062",
+        "name": "THARAKA",
+        "center": {
+          "lat": -0.140954,
+          "lon": 38.030977
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/062.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/13.json"
+  },
+  {
+    "_id": "26",
+    "code": "26",
+    "name": "TRANS NZOIA",
+    "center": {
+      "lat": 1.053408,
+      "lon": 34.956803
+    },
+    "constituencies": [
+      {
+        "code": "140",
+        "name": "CHERANGANY",
+        "center": {
+          "lat": 1.026251,
+          "lon": 35.191681
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/140.json"
+      },
+      {
+        "code": "137",
+        "name": "ENDEBESS",
+        "center": {
+          "lat": 1.127767,
+          "lon": 34.772224
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/137.json"
+      },
+      {
+        "code": "139",
+        "name": "KIMININI",
+        "center": {
+          "lat": 0.922091,
+          "lon": 34.970954
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/139.json"
+      },
+      {
+        "code": "136",
+        "name": "KWANZA",
+        "center": {
+          "lat": 1.147964,
+          "lon": 34.979313
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/136.json"
+      },
+      {
+        "code": "138",
+        "name": "SABOTI",
+        "center": {
+          "lat": 0.973901,
+          "lon": 34.845263
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/138.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/26.json"
+  },
+  {
+    "_id": "23",
+    "code": "23",
+    "name": "TURKANA",
+    "center": {
+      "lat": 3.427307,
+      "lon": 35.435139
+    },
+    "constituencies": [
+      {
+        "code": "126",
+        "name": "LOIMA",
+        "center": {
+          "lat": 3.028232,
+          "lon": 35.141419
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/126.json"
+      },
+      {
+        "code": "125",
+        "name": "TURKANA CENTRAL",
+        "center": {
+          "lat": 3.16652,
+          "lon": 35.911839
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/125.json"
+      },
+      {
+        "code": "128",
+        "name": "TURKANA EAST",
+        "center": {
+          "lat": 1.883892,
+          "lon": 36.198204
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/128.json"
+      },
+      {
+        "code": "123",
+        "name": "TURKANA NORTH",
+        "center": {
+          "lat": 4.45624,
+          "lon": 35.482351
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/123.json"
+      },
+      {
+        "code": "127",
+        "name": "TURKANA SOUTH",
+        "center": {
+          "lat": 2.380949,
+          "lon": 35.699931
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/127.json"
+      },
+      {
+        "code": "124",
+        "name": "TURKANA WEST",
+        "center": {
+          "lat": 4.074604,
+          "lon": 34.635678
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/124.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/23.json"
+  },
+  {
+    "_id": "27",
+    "code": "27",
+    "name": "UASIN GISHU",
+    "center": {
+      "lat": 0.528546,
+      "lon": 35.321396
+    },
+    "constituencies": [
+      {
+        "code": "144",
+        "name": "AINABKOI",
+        "center": {
+          "lat": 0.316909,
+          "lon": 35.454233
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/144.json"
+      },
+      {
+        "code": "145",
+        "name": "KAPSERET",
+        "center": {
+          "lat": 0.428531,
+          "lon": 35.243035
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/145.json"
+      },
+      {
+        "code": "146",
+        "name": "KESSES",
+        "center": {
+          "lat": 0.213948,
+          "lon": 35.394459
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/146.json"
+      },
+      {
+        "code": "143",
+        "name": "MOIBEN",
+        "center": {
+          "lat": 0.71144,
+          "lon": 35.397226
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/143.json"
+      },
+      {
+        "code": "141",
+        "name": "SOY",
+        "center": {
+          "lat": 0.814129,
+          "lon": 35.233746
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/141.json"
+      },
+      {
+        "code": "142",
+        "name": "TURBO",
+        "center": {
+          "lat": 0.600939,
+          "lon": 35.138728
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/142.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/27.json"
+  },
+  {
+    "_id": "38",
+    "code": "38",
+    "name": "VIHIGA",
+    "center": {
+      "lat": 0.078717,
+      "lon": 34.721702
+    },
+    "constituencies": [
+      {
+        "code": "215",
+        "name": "EMUHAYA",
+        "center": {
+          "lat": 0.08806,
+          "lon": 34.614694
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/215.json"
+      },
+      {
+        "code": "213",
+        "name": "HAMISI",
+        "center": {
+          "lat": 0.098125,
+          "lon": 34.821339
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/213.json"
+      },
+      {
+        "code": "214",
+        "name": "LUANDA",
+        "center": {
+          "lat": 0.024001,
+          "lon": 34.600191
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/214.json"
+      },
+      {
+        "code": "212",
+        "name": "SABATIA",
+        "center": {
+          "lat": 0.114872,
+          "lon": 34.755464
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/212.json"
+      },
+      {
+        "code": "211",
+        "name": "VIHIGA",
+        "center": {
+          "lat": 0.035199,
+          "lon": 34.692326
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/211.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/38.json"
+  },
+  {
+    "_id": "08",
+    "code": "08",
+    "name": "WAJIR",
+    "center": {
+      "lat": 1.810593,
+      "lon": 40.034371
+    },
+    "constituencies": [
+      {
+        "code": "037",
+        "name": "ELDAS",
+        "center": {
+          "lat": 2.280838,
+          "lon": 39.456215
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/037.json"
+      },
+      {
+        "code": "035",
+        "name": "TARBAJ",
+        "center": {
+          "lat": 2.35605,
+          "lon": 40.232509
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/035.json"
+      },
+      {
+        "code": "034",
+        "name": "WAJIR EAST",
+        "center": {
+          "lat": 1.946942,
+          "lon": 40.641246
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/034.json"
+      },
+      {
+        "code": "033",
+        "name": "WAJIR NORTH",
+        "center": {
+          "lat": 2.970742,
+          "lon": 39.646124
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/033.json"
+      },
+      {
+        "code": "038",
+        "name": "WAJIR SOUTH",
+        "center": {
+          "lat": 0.988037,
+          "lon": 40.35788
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/038.json"
+      },
+      {
+        "code": "036",
+        "name": "WAJIR WEST",
+        "center": {
+          "lat": 1.659871,
+          "lon": 39.530075
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/036.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/08.json"
+  },
+  {
+    "_id": "24",
+    "code": "24",
+    "name": "WEST POKOT",
+    "center": {
+      "lat": 1.742564,
+      "lon": 35.24323
+    },
+    "constituencies": [
+      {
+        "code": "131",
+        "name": "KACHELIBA",
+        "center": {
+          "lat": 2.056555,
+          "lon": 35.112003
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/131.json"
+      },
+      {
+        "code": "129",
+        "name": "KAPENGURIA",
+        "center": {
+          "lat": 1.515275,
+          "lon": 35.145643
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/129.json"
+      },
+      {
+        "code": "132",
+        "name": "POKOT SOUTH",
+        "center": {
+          "lat": 1.341989,
+          "lon": 35.294305
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/132.json"
+      },
+      {
+        "code": "130",
+        "name": "SIGOR",
+        "center": {
+          "lat": 1.563447,
+          "lon": 35.544956
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/130.json"
+      }
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/24.json"
+  }
+]

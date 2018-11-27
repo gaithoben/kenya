@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/gaithoben/kenya#readme",
   "dependencies": {
+    "hls.js": "0.8.9",
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {

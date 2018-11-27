@@ -1,5 +1,5 @@
-import counties from './json/counties.json';
-import constituencies from './json/constituencies.json';
+import counties from './json/kenyacounties.json';
+import constituencies from './json/kenyaconstituencies.json';
 import uniqueRandomArray from 'unique-random-array';
 
 module.exports = {
