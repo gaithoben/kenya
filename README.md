@@ -23,34 +23,102 @@ Output
 
 ```javascript
 [
-{
-"code": "01",
-"name": "MOMBASA",
-"center": { "lat": -4.018804, "lon": 39.650008 },
-"no_of_polling_stations": "934",
-"no_of_polling_centers": "934",
-"registered_voters": 580223,
-"geopolygon":
-"https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/polygons/01.json"
-},
-...
+  {
+    "_id": "30",
+    "code": "30",
+    "name": "BARINGO",
+    "center": {
+      "lat": 0.6717,
+      "lon": 35.945852
+    },
+    "constituencies": [
+      {
+        "code": "158",
+        "name": "BARINGO  NORTH",
+        "center": {
+          "lat": 0.753312,
+          "lon": 35.794812
+        },
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/158.json"
+      },
+      ...
+    ],
+    "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/county/countypolygons/30.json"
+  },
+  ...
 ]
 ```
 
+```javascript
 import { constituencies } from 'kenya';
+```
+
+Output
 
 ```javascript
 
         [
-            {
-            "code": "001",
-            "name": "CHANGAMWE",
-            "center": { "lat": -4.026797, "lon": 39.614571 },
-            "no_of_polling_stations": "136",
-            "no_of_polling_centers": "136",
-            "registered_voters": 86331,
-            "geopolygon":
-            "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/001.json"
+    {
+        "_id": "144",
+        "code": "144",
+        "name": "AINABKOI",
+        "center": {
+            "lat": 0.316909,
+            "lon": 35.454233
         },
-        ...]
+        "wards": [
+            {
+                "code": "0721",
+                "name": "AINABKOI/OLARE",
+                "center": {
+                    "lat": 0.20469,
+                    "lon": 35.500608
+                },
+                "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/ward/wardpolygons/0721.json"
+            },
+            {
+                "code": "0719",
+                "name": "KAPSOYA",
+                "center": {
+                    "lat": 0.520393,
+                    "lon": 35.320549
+                },
+                "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/ward/wardpolygons/0719.json"
+            },
+            {
+                "code": "0720",
+                "name": "KAPTAGAT",
+                "center": {
+                    "lat": 0.42814,
+                    "lon": 35.422417
+                },
+                "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/ward/wardpolygons/0720.json"
+            }
+        ],
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/144.json"
+    },
+    {
+        "_id": "190",
+        "code": "190",
+        "name": "AINAMOI",
+        "center": {
+            "lat": -0.303028,
+            "lon": 35.276669
+        },
+        "wards": [
+            {
+                "code": "0945",
+                "name": "AINAMOI",
+                "center": {
+                    "lat": -0.26719,
+                    "lon": 35.282392
+                },
+                "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/ward/wardpolygons/0945.json"
+            },
+          ...
+        ],
+        "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/190.json"
+    },
+    ...
+]
 ```
