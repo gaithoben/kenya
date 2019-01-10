@@ -122,3 +122,41 @@ Output
     ...
 ]
 ```
+
+```javascript
+import { ethnicpopulation2009 } from 'kenya';
+```
+
+Output
+
+```javascript
+
+    [
+    { "name": "TURKANA", "population": 988592 },
+    {
+        "name": "LUHYA",
+        "population": 5338666,
+        "subs": [
+        { "name": "LUHYA (SO STATED)", "population": 578583 },
+        { "name": "BAKHAYO", "population": 124555 },
+        { "name": "BANYALA", "population": 273198 },
+        { "name": "BANYORE", "population": 310894 },
+        { "name": "BATSOTSO", "population": 121518 },
+        { "name": "BUKUSU", "population": 1432810 },
+        { "name": "IDAKHO", "population": 170720 },
+        { "name": "ISUKHA", "population": 217327 },
+        { "name": "KABRAS", "population": 252761 },
+        { "name": "KISA", "population": 137268 },
+        { "name": "MARACHI", "population": 155341 },
+        { "name": "MARAGOLI", "population": 618340 },
+        { "name": "MARAMA", "population": 152427 },
+        { "name": "SAMIA", "population": 124952 },
+        { "name": "TACHONI", "population": 118363 },
+        { "name": "TIRIKI", "population": 209814 },
+        { "name": "TURA", "population": 30388 },
+        { "name": "WANGA", "population": 309407 }
+        ]
+    },
+    ...
+]
+```
