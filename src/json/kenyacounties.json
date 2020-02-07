@@ -546,8 +546,14 @@
         "polygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/248.json"
       },
       {
+        "code": "251",
+        "name": "SUBA NORTH",
+        "center": { "lat": -0.457118, "lon": 34.175793 },
+        "geopolygon": "https://raw.githubusercontent.com/gaithoben/kenya-geo/master/constituency/constituencypolygons/251.json"
+      },
+      {
         "code": "252",
-        "name": "SUBA",
+        "name": "SUBA SOUTH",
         "center": {
           "lat": -0.642825,
           "lon": 34.093212
