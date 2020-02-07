@@ -16,7 +16,7 @@ npm install kenya
 Then import
 
 ```javascript
-import { counties } from 'kenya';
+import { counties } from "kenya";
 ```
 
 Output
@@ -50,7 +50,7 @@ Output
 ```
 
 ```javascript
-import { constituencies } from 'kenya';
+import { constituencies } from "kenya";
 ```
 
 Output
@@ -124,7 +124,7 @@ Output
 ```
 
 ```javascript
-import { ethnicpopulation2009 } from 'kenya';
+import { ethnicpopulation2009 } from "kenya";
 ```
 
 Output
