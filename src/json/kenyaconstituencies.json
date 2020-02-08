@@ -10328,7 +10328,7 @@
     {
         "_id": "251",
         "code": "251",
-        "name": "SUBA NORTH",
+        "name": "MBITA",
         "center": {
             "lat": -0.457118,
             "lon": 34.175793
@@ -14534,7 +14534,7 @@
     {
         "_id": "252",
         "code": "252",
-        "name": "SUBA SOUTH",
+        "name": "SUBA",
         "center": {
             "lat": -0.642825,
             "lon": 34.093212
