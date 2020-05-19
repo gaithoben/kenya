@@ -3,7 +3,7 @@ import constituencies from './json/kenyaconstituencies.json';
 import tribesofkenya from './json/tribesofkenya.json';
 import ethnicpopulation2009 from './json/kenyaethnicpopulation2009.json';
 import nationalities from './json/nationalities.json';
-
+import worldlanguages from './json/worldlanguages';
 import uniqueRandomArray from 'unique-random-array';
 
 module.exports = {
@@ -14,6 +14,7 @@ module.exports = {
   tribesofkenya,
   ethnicpopulation2009,
   nationalities,
+  worldlanguages,
 };
 
 function randomcounty(number) {
