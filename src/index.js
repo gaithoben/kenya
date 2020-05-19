@@ -1,12 +1,12 @@
-import counties from './json/kenyacounties.json';
-import constituencies from './json/kenyaconstituencies.json';
-import tribesofkenya from './json/tribesofkenya.json';
-import ethnicpopulation2009 from './json/kenyaethnicpopulation2009.json';
-import nationalities from './json/nationalities.json';
-import worldlanguages from './json/worldlanguages';
-import worldcurrencies from './json/worldcurrencies.json';
+import counties from "./json/kenyacounties.json";
+import constituencies from "./json/kenyaconstituencies.json";
+import tribesofkenya from "./json/tribesofkenya.json";
+import ethnicpopulation2009 from "./json/kenyaethnicpopulation2009.json";
+import nationalities from "./json/nationalities.json";
+import worldlanguages from "./json/worldlanguages";
+import worldcurrencies from "./json/worldcurrencies.json";
 
-import uniqueRandomArray from 'unique-random-array';
+import uniqueRandomArray from "unique-random-array";
 
 module.exports = {
   counties: counties,
@@ -16,7 +16,7 @@ module.exports = {
   tribesofkenya,
   ethnicpopulation2009,
   nationalities,
-  worldcurrencies
+  worldcurrencies,
   worldlanguages,
 };
 
