@@ -160,3 +160,15 @@ Output
     ...
 ]
 ```
+
+## Currencies
+
+```javascript
+import { worldcurrencies } from "kenya";
+```
+
+## World Languages
+
+```javascript
+import { worldlanguages } from "kenya";
+```
