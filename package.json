@@ -1,6 +1,6 @@
 {
   "name": "kenya",
-  "version": "0.0.0-development",
+  "version": "1.7.1",
   "description": "A package with various components describing kenyan geography",
   "main": "dist/index.js",
   "files": [
